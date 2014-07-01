@@ -1,0 +1,99 @@
+html, body, section {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	vertical-align:baseline;
+	background:transparent;
+	display: block;
+}
+
+html,body {
+    height: 100%;
+    overflow-x: hidden;
+}
+
+a {
+    margin:0;
+    padding:0;
+    font-size:100%;
+    vertical-align:baseline;
+    background:transparent;
+    text-decoration:none;
+    border-bottom:1px dotted #ccc
+}
+
+.page-header {
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	background-image: url(../../images/header.jpg);
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 350px;
+	display: table;
+}
+
+.circle-image {
+	border-radius: 50%;
+	border: 5px solid;
+	border-color: #FFF;
+	height: 180px;
+	width: 180px;
+}
+
+.profile-pic {
+	text-align: center;
+	margin: 0 auto;
+	float: none;
+	padding-top: 20px;
+}
+
+.header-content {
+	text-align: center;
+	padding: 10px;
+}
+
+#name-heading {
+	color: #FFF;
+	padding-bottom: 10px;
+}
+
+#header-links a {
+	color:#FFF;
+    border:2px solid #FFF;
+    font-size: 15px;
+    padding: 10px;
+    margin: 10px;
+    display:inline-block;
+}
+
+#header-links a:hover, #header-links a.selected {
+    background:#FBE3C4;
+    color:#291A03;
+}
+
+.main-content {
+	max-width:1040px;
+	margin-left: 200px;
+	margin-right: 200px;
+	margin-top: 50px;
+	margin-bottom: 20px;
+    padding:0 50px;
+}
+
+.about-me p {
+	color: #aaa;
+}
+
+.projects {
+
+}
+
+@media all and (max-width: 840px) {
+.main-content {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+}

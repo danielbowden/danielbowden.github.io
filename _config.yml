@@ -1,0 +1,19 @@
+title: Daniel Bowden
+#Your site's domain goes here. Leave localhost server or blank when working locally.
+url: http://localhost:4000
+
+owner:
+  name: Daniel Bowden
+  avatar: avatar.jpg
+  bio: "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
+  email: daniel@bowden.in
+  twitter: https://twitter.com/danielgbowden      
+  github: https://github.com/danielbowden
+  stackexchange: http://stackoverflow.com/users/387317/daniel-bowden
+  linkedin: http://www.linkedin.com/in/danielgbowden
+
+timezone: Australia/Sydney
+future: true
+pygments: true
+
+exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "tmp", "*.sublime-project", "*.sublime-workspace"]

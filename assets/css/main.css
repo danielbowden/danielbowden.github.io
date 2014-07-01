@@ -11,6 +11,7 @@ html, body, section {
 html,body {
     height: 100%;
     overflow-x: hidden;
+    background-color: #f5f3ee;
 }
 
 a {
@@ -22,6 +23,8 @@ a {
     text-decoration:none;
     border-bottom:1px dotted #ccc
 }
+
+/* Header content */
 
 .page-header {
 	background-size: cover;
@@ -67,6 +70,7 @@ a {
     padding: 10px;
     margin: 10px;
     display:inline-block;
+    text-transform: uppercase;
 }
 
 #header-links a:hover, #header-links a.selected {
@@ -74,26 +78,97 @@ a {
     color:#291A03;
 }
 
+/* Main content */
+
 .main-content {
-	max-width:1040px;
-	margin-left: 200px;
-	margin-right: 200px;
+	text-align: center;
+	margin-left: 20px;
+	margin-right: 20px;
 	margin-top: 50px;
 	margin-bottom: 20px;
-    padding:0 50px;
 }
 
 .about-me p {
 	color: #aaa;
 }
 
-.projects {
-
+.my-work {
+	/*text-align: center;*/
+		max-width: 580px;
+		margin: 0 auto;
 }
 
-@media all and (max-width: 840px) {
-.main-content {
-	margin-left: 10px;
-	margin-right: 10px;
+.my-work ul {
+	list-style: none;
+	font-size: 0px;
+	margin-left: -2.5%;
+	padding: 0;
+	display: inline-table;
 }
+
+.my-work li {
+	display: inline-block;
+	padding: 10px;
+	margin: 0 0 2.5% 2.5%;
+	background: #FFF;
+	border: 1px solid #DDD;
+	font-size: 16px;
+	font-size: 1rem;
+	vertical-align: top;
+	box-shadow: 0 0 5px #DDD;
+	box-sizing: border-box;
+	moz-box-sizing: border-box;
+	webkit-box-sizing: border-box;
+}
+
+.my-work li img {
+	max-width: 100%;
+	height: auto;
+	margin: 0 0 10px;
+}
+
+.my-work li h3 {
+	margin: 0 0 5px;
+	text-align: left;
+}
+
+.my-work li p {
+	font-size: .9em;
+	text-align: left;
+	line-height: 1.5em;
+	color: #999;
+}
+
+ul.columns-2 li {
+	width: 47.5%;
+}
+
+ul.columns-3 li {
+	width: 30.83%;
+}
+
+ul.columns-4 li {
+	width: 22.5%;
+}
+
+@media (max-width: 640px) {
+	.main-content {
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+
+	ul.grid-nav li {
+		display: block;
+		margin: 0 0 5px;
+	}
+	ul.grid-nav li a {
+		display: block;
+	}
+	.my-work ul {
+		margin-left: 0;
+	}
+	.my-work li {
+		width: 80% !important;
+		margin: 0 0 20px;
+	}
 }

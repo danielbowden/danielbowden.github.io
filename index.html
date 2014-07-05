@@ -9,26 +9,16 @@ tags: [iOS, software, engineer, mobile, objective-c, Sydney]
 	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eu dui id lorem hendrerit bibendum. Proin urna ipsum, lacinia id tortor nec, vehicula pulvinar justo. In vehicula interdum pharetra</p>
 </div>
 <div class="my-work">
-<ul class="columns-2">
-	<li>
-		<img src={{ site.url }}/images/{{ site.owner.avatar }}/>
-		<h3>Work title</h3>
-		<p>Work description description description</p>
-	</li>
-	<li>
-		<img src={{ site.url }}/images/{{ site.owner.avatar }}/>
-		<h3>Work title</h3>
-		<p>Work description description description</p>
-	</li>
-	<li>
-		<img src={{ site.url }}/images/{{ site.owner.avatar }}/>
-		<h3>Work title</h3>
-		<p>Work description description description</p>
-	</li>
-	<li>
-		<img src={{ site.url }}/images/{{ site.owner.avatar }}/>
-		<h3>Work title</h3>
-		<p>Work description description description</p>
-	</li>
-</ul>
+	<h1>Recent work</h1>
+	<ul>
+		{% for post in site.categories.work %}
+		<a href="{{ post.external-link }}">
+		<li>
+			<img src={{ site.url }}/images/work/{{ post.image.icon }}/>
+			<h3>{{ post.title }}</h3>
+			<p>{{ post.description }}</p>
+		</li>
+		</a>
+		{% endfor %}
+	</ul>
 </div>

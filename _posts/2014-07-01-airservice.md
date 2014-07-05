@@ -1,11 +1,11 @@
 ---
 layout: post
 title: AirService
-description: "Description description description description description description description."
+description: "iPhone & iPad"
 modified: 2014-07-01
 category: work
 image:
-  feature: alltime.jpg
+  icon: airservice-icon.jpg
 ---
 
 More information

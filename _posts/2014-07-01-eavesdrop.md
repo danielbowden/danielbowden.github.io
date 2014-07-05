@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Eavesdrop for iPhone
-description: "Description description description description description description description."
+title: Eavesdrop
+description: "iPhone"
 modified: 2014-07-01
-category: work
+categories: work
 image:
-  feature: alltime.jpg
+  icon: eavesdrop-icon.jpg
 ---
 
 More information

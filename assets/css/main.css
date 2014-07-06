@@ -1,10 +1,3 @@
-
-	/*
-		background: 389abe;
-		accent: 146d8d ;
-		content: fffadc;
-	*/
-
 html, body, section {
 	margin: 0;
 	padding: 0;
@@ -37,6 +30,10 @@ a {
     vertical-align:baseline;
     background:transparent;
     text-decoration:none;
+}
+
+#emphasis {
+	color: #389abe;
 }
 
 /* Header content */
@@ -101,14 +98,14 @@ a {
 	text-align: center;
 	margin-left: 20px;
 	margin-right: 20px;
-	margin-top: 50px;
+	margin-top: 40px;
 	margin-bottom: 20px;
 	padding-bottom: 100px; /*footer height*/
 }
 
 .about-me p {
 	color: #777070;
-	max-width: 580px;
+	max-width: 600px;
 	margin: 0 auto;
 }
 
@@ -119,7 +116,7 @@ a {
 }
 
 .my-work h2 {
-	color: #777070;
+	color: #389abe;
 }
 
 .my-work ul {

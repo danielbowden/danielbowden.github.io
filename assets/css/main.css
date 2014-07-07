@@ -10,7 +10,6 @@ html, body, section {
 
 html,body, #container {
     height: 100%;
-    /*overflow-x: hidden;*/
     background-color: #faf8ed;
 }
 

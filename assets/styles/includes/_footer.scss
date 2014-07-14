@@ -1,0 +1,11 @@
+.footer {
+  color: $light;
+  padding: 20px;
+  text-align: center;
+  background-color: $blue;
+}
+.footer a {
+  color: $light;
+  padding-bottom: 2px;
+  border-bottom:1px dotted $light;
+}

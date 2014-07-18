@@ -4,20 +4,36 @@ title: Daniel Bowden
 tags: [iOS, software, engineer, mobile, objective-c, Sydney]
 ---
 
-<div class="about-me">
-	<p>Software engineer based in Sydney, Australia.<br/>Specialising in mobile development and interested in exposure to exciting new technologies, innovative ideas, social interactivity and the opportunity to experiment and learn new things everyday.</p>
-</div>
-<div class="my-work">
-	<h2>Recent work</h2>
-	<ul>
-		{% for post in site.categories.work %}
-		<a href="{{ post.external-link }}" target="_blank">
-		<li>
-			<img src="{{ site.url }}/images/work/{{ post.image.icon }}"/>
-			<h3>{{ post.title }}</h3>
-			<p>{{ post.description }}</p>
-		</li>
-		</a>
-		{% endfor %}
-	</ul>
+<div class="content">
+	<div class="wrapper">
+		<div class="about">
+			<div class="sub-title">
+				Software engineer based in Sydney, Australia.
+			</div>
+			<div class="details">
+				Specialising in mobile development and interested in exposure to exciting new technologies, innovative ideas, social interactivity and the opportunity to experiment and learn new things everyday.
+			</div>
+		</div>
+
+		<div class="work">
+			<div class="title">
+				Recent work
+			</div>
+			<div class="apps">
+				{% for app in site.categories.work %}
+				<div class="app">
+					<a href="{{ app.external-link }}" target="_blank" class="link">
+						<img src="{{ site.url }}/images/work/{{ app.image.icon }}" class="image">
+						<div class="name">
+							{{ app.title }}
+						</div>
+						<div class="desc">
+							{{ app.description }}
+						</div>
+					</a>
+				</div>
+				{% endfor %}
+			</div>
+		</div>
+	</div>
 </div>

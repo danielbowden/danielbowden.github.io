@@ -1,5 +1,6 @@
 _site
 .DS_Store
+.sass-cache
 /workingimages
 *.sublime-project
 *.sublime-workspace

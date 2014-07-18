@@ -1,15 +1,15 @@
-<section class="page-header">
-	<div class="profile-pic">
-		<img class="circle-image" src="{{ site.url }}/images/{{ site.owner.avatar }}"/>
-	</div>
-	<div class="header-content">
-		<h1 id="name-heading">{{ site.owner.name }}</h1>
-		<nav id="header-links">
+<div class="header">
+	<div class="wrapper">
+		<div class="avatar">
+			<img class="image" src="{{ site.url }}/images/{{ site.owner.avatar }}"/>
+		</div>
+		<div class="name">{{ site.owner.name }}</div>
+		<div class="links">
 			<a href="{{ site.owner.github }}" target="_blank">GitHub</a>
 			<a href="{{ site.owner.twitter }}" target="_blank">Twitter</a>
 			<a href="{{ site.owner.linkedin }}" target="_blank">LinkedIn</a>
 			<a href="{{ site.owner.stackexchange }}" target="_blank">StackOverflow</a>
-			<a href="mailto:{{ site.owner.email }}">Email</a>
-		</nav>
+		</div>
+		</div>
 	</div>
-</section>
+</div>

@@ -1,0 +1,128 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 1.6;
+  font-family: "Lato", Helvetica, Arial, sans-serif;
+  background-color: #fafaf1; }
+
+a {
+  text-decoration: none; }
+
+.wrapper {
+  width: 100%;
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto; }
+
+.header {
+  padding: 40px 20px;
+  position: relative;
+  text-align: center;
+  background-color: #3ba0c3; }
+
+.header .avatar .image {
+  width: 180px;
+  height: 180px;
+  border: 5px solid #fafaf1;
+  border-radius: 50%; }
+
+.header .name {
+  color: #fafaf1;
+  font-size: 40px;
+  font-weight: 300;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-family: "Merriweather", Helvetica, Arial, sans-serif; }
+
+.header .links a {
+  margin: 10px;
+  padding: 10px;
+  color: #fafaf1;
+  font-size: 12px;
+  font-weight: 700;
+  display: inline-block;
+  border: 2px solid #fafaf1;
+  text-transform: uppercase; }
+
+.header .links a:hover {
+  background-color: rgba(0, 0, 0, 0.2); }
+
+.footer {
+  color: #fafaf1;
+  padding: 20px;
+  text-align: center;
+  background-color: #3ba0c3; }
+
+.footer a {
+  color: #fafaf1;
+  padding-bottom: 2px;
+  border-bottom: 1px dotted #fafaf1; }
+
+.content {
+  color: #7a7a71;
+  font-size: 20px;
+  padding: 40px 20px;
+  text-align: center; }
+
+.content .title {
+  color: #3ba0c3;
+  font-size: 24px;
+  font-weight: 400;
+  margin-bottom: 10px; }
+
+.content .sub-title {
+  color: #3ba0c3;
+  font-weight: 400;
+  margin-bottom: 10px; }
+
+.about {
+  margin-bottom: 40px; }
+
+.work .apps:after {
+  content: '';
+  clear: both;
+  display: table; }
+
+.work .app {
+  width: 32%;
+  float: left;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box; }
+
+.work .app {
+  margin-right: 2%;
+  margin-bottom: 2%; }
+
+.work .app:nth-child(3n) {
+  margin-right: 0; }
+
+.work .link {
+  color: #7a7a71;
+  padding: 20px;
+  display: block;
+  min-height: 185px;
+  border: 1px solid #cccccc;
+  background-color: white; }
+
+.work .link:hover {
+  border-color: #3ba0c3; }
+
+.work .image {
+  width: 100px;
+  height: 100px; }
+
+.work .desc {
+  font-size: 14px; }
+
+@media (max-width: 700px) {
+  .work .app {
+    width: 100%;
+    float: none;
+    margin-right: 0;
+    margin-bottom: 20px; }
+
+  .work .link {
+    min-height: 0; } }

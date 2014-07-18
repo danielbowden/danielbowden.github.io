@@ -20,7 +20,5 @@ timezone: Australia/Sydney
 future: true
 pygments: true
 markdown: kramdown
-sass:
-  sass_dir: assets/styles
 
 exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "tmp", "*.sublime-project", "*.sublime-workspace"]

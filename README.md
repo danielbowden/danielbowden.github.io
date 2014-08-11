@@ -17,12 +17,6 @@ bundle exec jekyll serve
 
 ```
 
-Until github-pages supports Jekyll 2.0+ sass will need to be compiled separately
-
-```shell
-sass --update assets/styles/:assets/css/
-```
-
 ## Author
 
 Daniel Bowden

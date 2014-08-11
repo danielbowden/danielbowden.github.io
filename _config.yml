@@ -18,7 +18,7 @@ google_verify: XRYjfggmrG1zd8QJvZN3lLbnYGyn5HrRM_oNFPiOvew
 
 timezone: Australia/Sydney
 future: true
-pygments: true
+highlighter: pygments
 markdown: kramdown
 
 exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "tmp", "*.sublime-project", "*.sublime-workspace"]

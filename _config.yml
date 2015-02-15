@@ -18,6 +18,7 @@ google_verify: XRYjfggmrG1zd8QJvZN3lLbnYGyn5HrRM_oNFPiOvew
 
 timezone: Australia/Sydney
 future: true
+permalink: pretty
 highlighter: pygments
 markdown: kramdown
 sass:

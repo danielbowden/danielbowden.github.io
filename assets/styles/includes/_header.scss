@@ -10,6 +10,11 @@
   border: 5px solid $light;
   border-radius: 50%;
 }
+
+.header .avatar .image:hover {
+  border: 5px solid rgba(0,0,0,0.2);
+}
+
 .header .name {
   color: $light;
   font-size: 40px;

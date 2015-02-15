@@ -1,0 +1,43 @@
+.content {
+	text-align: justify;
+}
+
+.travels ul {
+	list-style-type: none;
+	padding: 0;
+}
+
+.travels li {
+	color: $blue;
+	margin-bottom: 10px;
+}
+
+.travels li span {
+	font-family: $body-font, monospace;
+}
+
+.travels li a {
+	color: $dark;
+}
+
+.travels li a:hover {
+	color: $blue;
+}
+
+.post-title {
+	color: $blue;
+	font-size: 24px;
+	font-weight: 400;
+}
+
+.post-title a {
+	color: $dark;
+}
+
+.post-title a:hover {
+	color: $blue;
+}
+
+.post-details {
+	text-align: right;
+}

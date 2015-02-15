@@ -1,0 +1,51 @@
+// Clearfix
+.work .apps:after {
+  content: '';
+  clear: both;
+  display: table;
+}
+
+.work .app {
+  width: 32%;
+  float: left;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.work .app {
+  margin-right: 2%;
+  margin-bottom: 2%;
+}
+.work .app:nth-child(3n) {
+  margin-right: 0;
+}
+.work .link {
+  color: $dark;
+  padding: 20px;
+  display: block;
+  min-height: 185px;
+  border: 1px solid $grey;
+  background-color: $white;
+}
+.work .link:hover {
+  border-color: $blue;
+}
+.work .image {
+  width: 100px;
+  height: 100px;
+}
+.work .desc {
+  font-size: 14px;
+}
+
+@media (max-width: 700px) {
+  .work .app {
+    width: 100%;
+    float: none;
+    margin-right: 0;
+    margin-bottom: 20px;
+  }
+  .work .link {
+    min-height: 0;
+  }
+}

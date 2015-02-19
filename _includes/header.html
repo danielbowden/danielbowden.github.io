@@ -1,7 +1,7 @@
 <div class="header">
 	<div class="wrapper">
 		<div class="avatar">
-			<a href="{{ site.url }}"><img class="image" src="{{ site.url }}/images/{{ site.owner.avatar }}"/></a>
+			<img class="image" src="{{ site.url }}/images/{{ site.owner.avatar }}"/>
 		</div>
 		<div class="name">{{ site.owner.name }}</div>
 		<div class="links">
@@ -9,11 +9,6 @@
 			<a href="{{ site.owner.twitter }}" target="_blank">Twitter</a>
 			<a href="{{ site.owner.linkedin }}" target="_blank">LinkedIn</a>
 			<a href="{{ site.owner.stackexchange }}" target="_blank">StackOverflow</a>
-			{% if page.categories contains "travel" %}
-			<a href="{{ site.url }}">Work</a>
-			{% else %}
-			<a href="{{ site.url }}/travel">Travel</a>
-			{% endif %}
 		</div>
 		</div>
 	</div>

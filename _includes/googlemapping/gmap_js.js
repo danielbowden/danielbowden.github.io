@@ -66,7 +66,7 @@ var jekyllMapping = (function () {
                 center: new google.maps.LatLng(0, 0)
             };
 
-            this.map = new google.maps.Map(document.getElementById("jekyll-mapping"), this.options);
+            this.map = new google.maps.Map(document.getElementById("google-mapping"), this.options);
 
             if (settings.pages) {
                 this.indexMap();
@@ -78,7 +78,7 @@ var jekyllMapping = (function () {
             settings = set;
             var script = document.createElement("script");
             script.type = "text/javascript";
-            script.src = "http://maps.googleapis.com/maps/api/js?key=" + settings.api_key + "&sensor=false&callback=jekyllMapping.mappingInitialize";
+            script.src = "http://maps.googleapis.com/maps/api/js?key=AIzaSyA-YoSaEBJVaSSxzLDLyycbt24kAttfyhU&sensor=false&callback=jekyllMapping.mappingInitialize";
             document.body.appendChild(script);
         }
     };

@@ -42,15 +42,21 @@
 
 .video-wrapper {
   position: relative;
-  padding-bottom: 56.25%; /* 16:9 */
-  padding-top: 25px;
+  padding-bottom: 51.2%;
+  padding-top: 10px;
   height: auto;
+  margin-bottom: 40px;
+  text-align: center;
 }
 
 .video-wrapper .youtube-player {
   position: absolute;
   top: 0;
   left: 0;
-  width: 100%;
+  background-color: $white;
+  border: 1px solid $grey;
+  color: $dark;
+  width: 97.08%;
   height: 100%;
+  padding: 10px;
 }

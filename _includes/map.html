@@ -2,5 +2,5 @@
 </div>
 {% include googlemapping/gmap_js.js %}
 <script type="text/javascript">
-    window.onload = function () { jekyllMapping.loadScript({"title":"{{ page.mapping.title }}", "latitude":{{ page.mapping.latitude }}, "longitude":{{ page.mapping.longitude }} }) };
+    window.onload = function () { jekyllMapping.loadScript( {{ page.mapping | jsonify }} ) };
 </script>

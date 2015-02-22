@@ -5,12 +5,14 @@ var jekyllMapping = (function () {
     var obj = {
         plotArray: function(locations) {
             function jekyllMapListen (m, s) {
+
                 if (s.link) {
                     google.maps.event.addListener(m, 'click', function() {
                         window.location.href = s.link;
                     });
                 }
             }
+
             var bounds = new google.maps.LatLngBounds(), markers = [], s, l, m;
             while (locations.length > 0) {
                 s = locations.pop();
@@ -24,6 +26,13 @@ var jekyllMapping = (function () {
                 bounds.extend(l);                
                 jekyllMapListen(m, s);
             }
+
+            google.maps.event.addListenerOnce(this.map, 'bounds_changed', function(event) {
+                if (this.getZoom() > settings.zoom) {
+                    this.setZoom(settings.zoom);
+                }
+            });
+
             this.map.fitBounds(bounds);
         },
         indexMap: function () {
@@ -40,6 +49,10 @@ var jekyllMapping = (function () {
                 });
                 this.map.setCenter(this.options.center);
             }     
+
+            if (settings.zoom) {
+                this.options.zoom = settings.zoom;
+            }
 
             if (settings.locations instanceof Array) {
                 this.plotArray(settings.locations);
@@ -61,9 +74,12 @@ var jekyllMapping = (function () {
         },
         mappingInitialize: function () {
             this.options = {
-                zoom: 10,
-                mapTypeId: google.maps.MapTypeId.ROADMAP,
-                center: new google.maps.LatLng(0, 0)
+                zoom: settings.zoom? settings.zoom : 10,
+                mapTypeId: google.maps.MapTypeId.TERRAIN,
+                center: new google.maps.LatLng(0, 0),
+                streetViewControl: false,
+                mapTypeControl: false,
+
             };
 
             this.map = new google.maps.Map(document.getElementById("google-mapping"), this.options);

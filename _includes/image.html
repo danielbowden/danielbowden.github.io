@@ -4,5 +4,7 @@
     </a>
     {% if include.caption %}
         <p class="image-caption">{{ include.caption }}</p>
+    {% elsif include.title %}
+    	<p class="image-caption">{{ include.title }}</p>
     {% endif %}
 </div>

@@ -1,11 +1,7 @@
 <div class="image-wrapper">
-    {% if include.url %}
-    <a href="{{ include.url }}" title="{{ include.title }}" target="_blank">
-    {% endif %}
+    <a href="{{ site.url }}/{{ include.img }}" title="{{ include.title }}" target="_blank">
         <img src="{{ site.url }}/{{ include.img }}" alt="{{ include.title }}"/>
-    {% if include.url %}
     </a>
-    {% endif %}
     {% if include.caption %}
         <p class="image-caption">{{ include.caption }}</p>
     {% endif %}

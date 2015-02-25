@@ -34,4 +34,4 @@ We walked along 5th Avenue (window) shopping and playing on the life sized piano
 
 {% include image.html img="images/travel/NewYork-StatueOfLiberty.jpg" title="Statue of Liberty in the warm afternoon light" %}
 
-I managed to come across a stand up comedy show in a small underground comedy club so we waited patiently, but freezing, in a standby ticket line hoping to secure a spot. We both got in and it turned out to be every bit as funny, offensive and rude as I had hoped. A great last minute thing to do on a night when we had no other plans.
+I managed to come across a stand up comedy show in a small underground comedy club in [Greenwich Village](http://en.wikipedia.org/wiki/Greenwich_Village) so we waited patiently, but freezing, in a standby ticket line hoping to secure a spot. We both got in and it turned out to be every bit as funny, offensive and rude as I had hoped. A great last minute thing to do on a night when we had no other plans.

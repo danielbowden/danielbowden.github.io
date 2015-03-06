@@ -1,6 +1,0 @@
-<div id="google-mapping" style="height:150px;width:100%;">
-</div>
-{% include_relative gmap_js.js %}
-<script type="text/javascript">
-    window.onload = function () { jekyllMapping.loadScript( {{ page.mapping | jsonify }} ) };
-</script>

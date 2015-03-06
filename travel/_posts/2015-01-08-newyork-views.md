@@ -1,6 +1,6 @@
 ---
 layout: travel
-title: New York City - Days with a view
+title: USA - New York City - Days with a view
 description: Travel notes
 modified: 2015-01-08
 categories: travel

@@ -1,6 +1,6 @@
 ---
 layout: travel
-title: New York City - City that never sleeps
+title: USA - New York City - City that never sleeps
 description: Travel notes
 modified: 2015-01-10
 categories: travel

@@ -1,6 +1,6 @@
 ---
 layout: travel
-title: New York City - Sport and food the perfect mix
+title: USA - New York City - Sport and food the perfect mix
 description: Travel notes
 modified: 2015-01-09
 categories: travel

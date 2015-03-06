@@ -1,6 +1,6 @@
 ---
 layout: travel
-title: New York City - Snow & Sites
+title: USA - New York City - Snow & Sites
 description: Travel notes
 modified: 2015-01-06
 categories: travel

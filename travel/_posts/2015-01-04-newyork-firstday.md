@@ -1,6 +1,6 @@
 ---
 layout: travel
-title: New York City - Times Square and Central Park
+title: USA - New York City - Times Square and Central Park
 description: Travel notes
 modified: 2015-01-04
 categories: travel

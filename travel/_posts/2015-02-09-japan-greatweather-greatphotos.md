@@ -4,6 +4,8 @@ title: Japan - Great weather makes great photos
 description: Travel notes
 modified: 2015-02-09
 categories: travel
+image:
+  thumb: travel/Japan-AfternoonSun.jpg
 mapping:
   locations:
     - title: Grand Hirafu

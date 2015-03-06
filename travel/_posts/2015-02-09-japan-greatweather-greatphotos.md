@@ -5,7 +5,7 @@ description: Travel notes
 modified: 2015-02-09
 categories: travel
 image:
-  thumb: travel/Japan-AfternoonSun.jpg
+  thumb: travel/Japan-AfternoonSun-th.jpg
 mapping:
   locations:
     - title: Grand Hirafu

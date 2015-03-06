@@ -1,0 +1,77 @@
+.travel-content {
+  color: $dark;
+  font-size: 20px;
+  padding: 40px 20px;
+  text-align: justify;
+}
+
+.travel-content .title {
+  color: $blue;
+  font-size: 24px;
+  font-weight: 400;
+  margin-bottom: 10px;
+}
+.travel-content .sub-title {
+  color: $blue;
+  font-weight: 400;
+  margin-bottom: 10px;
+}
+
+.travel-content h2 {
+  font-size: 24px;
+  font-weight: 400;
+}
+
+.travels ul {
+	list-style-type: none;
+	padding: 0;
+}
+
+.travels li {
+	color: $blue;
+	margin-bottom: 10px;
+}
+
+.travels li span {
+	font-family: $body-font, monospace;
+}
+
+.travels li a {
+	color: $dark;
+}
+
+.travels li a:hover {
+	color: $blue;
+}
+
+.post a {
+	color: $blue;
+}
+
+.post a:hover {
+	color: $dark;
+}
+
+.post-title {
+	color: $blue;
+	font-size: 24px;
+	font-weight: 400;
+}
+
+.post-title a {
+	color: $dark;
+}
+
+.post-title a:hover {
+	color: $blue;
+}
+
+.post-details {
+	text-align: right;
+}
+
+.google-mapping {
+	text-align: center;
+	height: 150px;
+	width: 100%;
+}

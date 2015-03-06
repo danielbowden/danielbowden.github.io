@@ -1,0 +1,29 @@
+<!doctype html>
+<head>
+	{% include head.html %}
+</head>
+<body>
+	{% include header.html %}
+
+	<div class="travel-content">
+		<div class="wrapper">
+			<div class="about">
+				<div class="post-title">
+					<a href="{{ site.url }}/travel">Recent travel &raquo; </a> {{ page.title }}
+				</div>
+				<div class="post-details">
+					{{ page.date | date_to_long_string }}
+				</div>
+			</div>
+			{% if page.mapping %}
+			  	{% include mapping/map.html %}
+			{% endif %}
+			<div class="post">
+  				{{ content }}
+  			</div>
+  		</div>
+  	</div>
+	{% include footer.html %}
+	{% include scripts.html %}
+</body>
+</html>

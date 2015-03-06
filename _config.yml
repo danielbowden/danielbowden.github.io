@@ -18,9 +18,15 @@ google_verify: XRYjfggmrG1zd8QJvZN3lLbnYGyn5HrRM_oNFPiOvew
 
 timezone: Australia/Sydney
 future: true
+permalink: pretty
 highlighter: pygments
 markdown: kramdown
 sass:
   sass_dir: assets/styles
+
+mapping:
+  provider: google_js
+  api_key: AIzaSyA-YoSaEBJVaSSxzLDLyycbt24kAttfyhU
+  zoom: 0
 
 exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "tmp", "*.sublime-project", "*.sublime-workspace"]

@@ -9,4 +9,4 @@ image:
 external-link: https://github.com/danielbowden
 ---
 
-More information
+More information about opensource work

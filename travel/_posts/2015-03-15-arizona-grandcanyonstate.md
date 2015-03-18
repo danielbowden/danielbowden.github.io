@@ -31,7 +31,7 @@ mapping:
       longitude: -111.883698
 ---
 
-I left Portland early and arrived into a much hotter Phoenix, Arizona just after lunch. I picked my rental car and began the 2.5hr drive up to Flagstaff, a convenient spot to be based for day trips in the car.
+I left Portland early in the morning and arrived into a much hotter Phoenix, Arizona just after lunch. I picked my rental car and began the 2.5hr drive up to Flagstaff, a convenient spot to be based for day trips in the car.
 
 My first day in Flagstaff was cloudy so I opted to let the Grand Canyon wait and I set off early to explore other spots I had in mind.
 

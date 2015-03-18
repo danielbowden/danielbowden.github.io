@@ -4,6 +4,8 @@ title: USA - New York City - Times Square and Central Park
 description: Travel notes
 modified: 2015-01-04
 categories: travel
+image:
+  thumb: travel/NewYork-TaxiBW-th.jpg
 mapping:
   locations:
     - title: Times Square

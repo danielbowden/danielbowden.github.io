@@ -4,6 +4,8 @@ title: Japan - Fresh snow
 description: Travel notes
 modified: 2015-01-30
 categories: travel
+image:
+  thumb: travel/Japan-SnowTrees-th.jpg
 mapping:
   locations:
     - title: Hanazono

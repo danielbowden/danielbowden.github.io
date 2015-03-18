@@ -4,6 +4,8 @@ title: Japan - Settling in for 5 weeks on snow
 description: Travel notes
 modified: 2015-01-27
 categories: travel
+image:
+  thumb: travel/Japan-AustraliaDay-th.jpg
 mapping:
   locations:
     - title: Owashi Lodge

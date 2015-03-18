@@ -4,6 +4,8 @@ title: Japan - Farewell to the snow
 description: Travel notes
 modified: 2015-03-01
 categories: travel
+image:
+  thumb: travel/Japan-SnowBuilding-th.jpg
 mapping:
   locations:
     - title: Moiwa ski resort

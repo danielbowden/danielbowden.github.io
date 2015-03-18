@@ -4,6 +4,8 @@ title: USA - New York City - Final days
 description: Travel notes
 modified: 2015-01-12
 categories: travel
+image:
+  thumb: travel/NewYork-BrooklynBridge-th.jpg
 mapping:
   locations:
     - title: Brooklyn Bridge

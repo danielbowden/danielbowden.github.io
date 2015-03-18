@@ -4,6 +4,8 @@ title: USA - Seattle, Washington - First stop in the US
 description: Travel notes
 modified: 2015-03-05
 categories: travel
+image:
+  thumb: travel/Seattle-UW-View-th.jpg
 mapping:
   locations:
     - title: Pike Place Market

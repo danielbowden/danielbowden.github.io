@@ -4,6 +4,8 @@ title: USA - New York City - Days with a view
 description: Travel notes
 modified: 2015-01-08
 categories: travel
+image:
+  thumb: travel/NewYork-TopOfTheRockSkyline-th.jpg
 mapping:
   locations:
     - title: Rockefeller

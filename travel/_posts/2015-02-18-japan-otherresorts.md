@@ -4,6 +4,8 @@ title: Japan - Checking out the other resorts
 description: Travel notes
 modified: 2015-02-18
 categories: travel
+image:
+  thumb: travel/Japan-RusutsuTrees-th.jpg
 mapping:
   locations:
     - title: Rusutsu Resort

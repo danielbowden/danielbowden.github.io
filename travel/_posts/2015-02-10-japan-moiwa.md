@@ -4,6 +4,8 @@ title: Japan - An unbelievable day in Moiwa
 description: Travel notes
 modified: 2015-02-10
 categories: travel
+image:
+  thumb: travel/Japan-Moiwa-th.jpg
 mapping:
   locations:
     - title: Moiwa ski resort

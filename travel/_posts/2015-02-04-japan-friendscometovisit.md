@@ -4,6 +4,8 @@ title: Japan - Friends come to visit
 description: Travel notes
 modified: 2015-02-04
 categories: travel
+image:
+  thumb: travel/Japan-GondolaBlueSky-th.jpg
 mapping:
   locations:
     - title: Grand Hirafu

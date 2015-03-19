@@ -1,0 +1,12 @@
+<div id="flightpath">
+
+<img id="flightimage" style="height:50%;width:100%;"/>
+
+</div>
+
+<script type="text/javascript">
+
+    	flightpaths = "{{ page.flightpaths }}";
+
+    	document.getElementById("flightimage").setAttribute("src","http://www.gcmap.com/map?&PM=b%3Adisc7%2B%22%25N%2212&MS=wls2&DU=mi&P="+flightpaths)
+</script>

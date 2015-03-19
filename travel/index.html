@@ -6,6 +6,14 @@ tags: [travel, backpacking]
 image:
   thumb: travel/Japan-DanielSnowboard-th.jpg
 excerpt: A short simple travel blog of notes, photos and videos to document my travels mainly for the benefit of myself to read back on in the future but also for any interested family and friends to be able to see where I am and what I've been up to.
+flightpaths:
+  - SYD-SIN-LHR-DUB,
+  - DUB-JFK,
+  - JFK-DXB-SYD,
+  - SYD-BKK-CTS,
+  - CTS-NRT-SEA,
+  - PDX-PHX,
+  - PHX-DEN
 ---
 
 <div class="travel-content">
@@ -17,6 +25,12 @@ excerpt: A short simple travel blog of notes, photos and videos to document my t
 			<div class="details">
 				{{ page.excerpt }}
 			</div>
+			<div class="sub-title">
+				Flight paths
+			</div>
+			{% if page.flightpaths %}
+		  		{% include flightpath/flightpath.html %}
+			{% endif %}
 		</div>
 		<div class="travels">
 			<ul>

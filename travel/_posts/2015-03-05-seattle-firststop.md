@@ -4,6 +4,7 @@ title: USA - Seattle, Washington - First stop in the US
 description: Travel notes
 modified: 2015-03-05
 categories: travel
+comments: true
 image:
   thumb: travel/Seattle-UW-View-th.jpg
 mapping:

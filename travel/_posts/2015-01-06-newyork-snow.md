@@ -4,6 +4,7 @@ title: USA - New York City - Snow & Sites
 description: Travel notes
 modified: 2015-01-06
 categories: travel
+comments: true
 image:
   thumb: travel/NewYork-CentralParkSnow-th.jpg
 mapping:

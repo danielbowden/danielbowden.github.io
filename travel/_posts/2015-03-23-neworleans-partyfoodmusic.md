@@ -4,6 +4,7 @@ title: USA - New Orleans - Party, Food, Music
 description: Travel notes
 modified: 2015-03-23
 categories: travel
+comments: true
 image:
   thumb: travel/NewOrleans-BourbonStreet1-th.jpg
 mapping:

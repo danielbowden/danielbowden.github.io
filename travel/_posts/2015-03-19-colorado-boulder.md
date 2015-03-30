@@ -4,6 +4,7 @@ title: USA - Colorado - Boulder
 description: Travel notes
 modified: 2015-03-19
 categories: travel
+comments: true
 image:
   thumb: travel/Boulder-ChautauquaPark-th.jpg
 mapping:

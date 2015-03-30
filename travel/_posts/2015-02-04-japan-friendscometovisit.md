@@ -4,6 +4,7 @@ title: Japan - Friends come to visit
 description: Travel notes
 modified: 2015-02-04
 categories: travel
+comments: true
 image:
   thumb: travel/Japan-GondolaBlueSky-th.jpg
 mapping:

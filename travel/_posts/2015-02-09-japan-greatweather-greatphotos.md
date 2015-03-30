@@ -4,6 +4,7 @@ title: Japan - Great weather makes great photos
 description: Travel notes
 modified: 2015-02-09
 categories: travel
+comments: true
 image:
   thumb: travel/Japan-AfternoonSun-th.jpg
 mapping:

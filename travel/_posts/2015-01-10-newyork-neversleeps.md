@@ -4,6 +4,7 @@ title: USA - New York City - City that never sleeps
 description: Travel notes
 modified: 2015-01-10
 categories: travel
+comments: true
 image:
   thumb: travel/NewYork-NightLongExposure-th.jpg
 mapping:

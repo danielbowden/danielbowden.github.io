@@ -4,6 +4,7 @@ title: Ireland - Kilkenny
 description: Travel notes
 modified: 2014-12-27
 categories: travel
+comments: true
 image:
   thumb: travel/Kilkenny-Bridge-th.jpg
 mapping:

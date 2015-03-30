@@ -4,6 +4,7 @@ title: Ireland - Newbridge, The Wedding
 description: Travel notes
 modified: 2014-12-29
 categories: travel
+comments: true
 image:
   thumb: travel/Wedding-Rings-th.jpg
 mapping:

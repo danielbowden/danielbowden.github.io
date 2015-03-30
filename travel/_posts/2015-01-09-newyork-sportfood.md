@@ -4,6 +4,7 @@ title: USA - New York City - Sport and food the perfect mix
 description: Travel notes
 modified: 2015-01-09
 categories: travel
+comments: true
 image:
   thumb: travel/NewYork-IceHockey-th.jpg
 mapping:

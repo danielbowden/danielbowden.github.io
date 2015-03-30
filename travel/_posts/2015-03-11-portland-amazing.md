@@ -4,6 +4,7 @@ title: USA - Portland, Oregon - An amazing place
 description: Travel notes
 modified: 2015-03-11
 categories: travel
+comments: true
 image:
   thumb: travel/Portland-OneontaGorge-th.jpg
 mapping:

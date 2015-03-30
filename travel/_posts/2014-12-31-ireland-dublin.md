@@ -4,6 +4,7 @@ title: Ireland - Dublin
 description: Travel notes
 modified: 2014-12-31
 categories: travel
+comments: true
 image:
   thumb: travel/Dublin-Me-th.jpg
 mapping:

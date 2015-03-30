@@ -4,6 +4,7 @@ title: USA - New York City - Days with a view
 description: Travel notes
 modified: 2015-01-08
 categories: travel
+comments: true
 image:
   thumb: travel/NewYork-TopOfTheRockSkyline-th.jpg
 mapping:

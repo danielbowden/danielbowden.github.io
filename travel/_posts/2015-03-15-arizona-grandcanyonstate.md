@@ -4,6 +4,7 @@ title: USA - Arizona - The Grand Canyon State
 description: Travel notes
 modified: 2015-03-15
 categories: travel
+comments: true
 image:
   thumb: travel/Arizona-GrandFalls-th.jpg
 mapping:

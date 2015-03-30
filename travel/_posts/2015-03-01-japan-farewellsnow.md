@@ -4,6 +4,7 @@ title: Japan - Farewell to the snow
 description: Travel notes
 modified: 2015-03-01
 categories: travel
+comments: true
 image:
   thumb: travel/Japan-SnowBuilding-th.jpg
 mapping:

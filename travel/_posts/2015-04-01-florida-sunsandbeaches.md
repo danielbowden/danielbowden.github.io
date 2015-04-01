@@ -47,13 +47,13 @@ I left Panama City Beach on a Friday and hired another, this time basic, rental 
 
 The Australian accent once again worked in my favour and I made friends with the owner of a bar in Downtown Orlando. I had an amazing burger for dinner, was given a ridiculous amount of beers, shots and doubled spirits yet to my protest at the end of the night he refused to let me pay. A win for the backpacker budget!
 
-I love it when things just work out and as luck would have it and the reason I stopped in Orlando was to fulfill the teenage dream of seeing [The Ataris](???) play live. The tour dates lined up perfectly with my passing through Florida and I even got to meet Kris Roe, buy a tshirt from him and talk about my trip.
+I love it when things just work out and the reason I stopped in Orlando, as luck would have it, was to fulfill the teenage dream of seeing [The Ataris](???) play live. The tour dates lined up perfectly with my passing through Florida and I even got to meet Kris Roe, buy a tshirt from him and talk about my trip.
 
 {% include image.html img="images/travel/NewOrleans-StreetMusicians.jpg" title="The Ataris" %}
 
 ##South Beach, Miami
 
-I went by Greyhound bus down 5.5hrs from Orlando to Miami and then took an Uber into South Beach. My driver was a crazy but friendly Brazilian guy who was keen on showing me as much as he could on the drive in even if this meant stopping in the middle of the road so he could point at girls or in the middle of a bridge so that we could look at the water view... My favourite line from him though as we pulled into the chaos of Ocean Drive:
+I went by Greyhound bus down 5.5hrs from Orlando to Miami and then took an Uber into South Beach. My driver was a crazy but friendly Brazilian guy who was keen on showing me as much as he could on the drive in even if this meant stopping in the middle of the road so he could point at girls or in the middle of a bridge so that he could show me the water view... My favourite line from him though as we pulled into the chaos of Ocean Drive:
 
 ```"This is not the United States. This is..... MIAMI!!"```
 
@@ -65,6 +65,6 @@ Another good thing about being in a hostel was that I had friends again! Pretty 
 
 {% include image.html img="images/travel/NewOrleans-StreetMusicians.jpg" title="South Beach" %}
 
-South Beach gave me plenty of opportunity to hang around the beach enjoying the hot weather and getting my tan back. The water is a warm ??25ºC?? and a clear blue colour. As per usual I did a lot of exploring on foot and found an island where all the rich people and celebrities live with private golf course and wharfs.
+South Beach gave me plenty of opportunity to hang around the beach enjoying the hot weather and getting my tan back. The water is a warm ??25ºC?? and a clear blue colour. As per usual I did a lot of exploring on foot and found an island where all the rich people and celebrities live with a private ferry, no bridge, and a private golf course.
 
 I'm now on a plane flying back west from Miami → Austin, Texas and am looking forward to all the Texan BBQ! 

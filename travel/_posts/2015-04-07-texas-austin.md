@@ -6,32 +6,35 @@ modified: 2015-04-07
 categories: travel
 comments: true
 image:
-  thumb: travel/Florida-MiamiBeach2-th.jpg
+  thumb: travel/Austin-MusicCapital-th.jpg
 mapping:
   locations:
     - title: Firehouse Hostel
-      latitude: 25.778309
-      longitude: -80.132200
+      latitude: 30.268164
+      longitude: -97.741102
     - title: 6th Street
-      latitude: 30.184601
-      longitude: -85.818273
+      latitude: 30.267234
+      longitude: -97.739609
     - title: Rainey Street
-      latitude: 28.542336
-      longitude: -81.379100
+      latitude: 30.257947
+      longitude: -97.738900
+    - title: Graffiti Park
+      latitude: 30.275976
+      longitude: -97.753055
     - title: Hamilton Pools
-      latitude: 25.778309
-      longitude: -80.132200
+      latitude: 30.342818
+      longitude: -98.126519
     - title: Krause Springs
-      latitude: 25.778309
-      longitude: -80.132200
+      latitude: 30.478372
+      longitude: -98.151179
     - title: Mount Bonnell
-      latitude: 25.778309
-      longitude: -80.132200
+      latitude: 30.321040
+      longitude: -97.773476
 ---
 
 I flew into Austin Texas, the proclaimed "live music capital of the world", and made my way to the [Firehouse Hostel]($$$) right in the middle of downtown. After a good chat with a longtime local working there I had a great list of tips for things to see, neighbourhoods to visit, music venues, bars, food and everything in between which was more than enough to keep me occupied during my week stay.
 
-{% include image.html img="images/travel/Florida-TheAtaris.jpg" title="Live music capital of the world" %}
+{% include image.html img="images/travel/Austin-MusicCapital.jpg" title="Live music capital of the world" %}
 
 That night after hearing some familiar accents coming from the kitchen/lounge of the hostel I went in to find some Australian guys that had just met each other playing some drinking games. I joined in and from then on we had a group to drink our way through 6th Street until close every night.
 
@@ -41,24 +44,24 @@ Much like my other stops, my days were spent exploring with a backpack and lots 
 
 With Texas BBQ and food carts on the agenda for my stay I made sure to seek out as many of the popular places as I could find. Throughout the week I had plenty of huge servings of beef ribs, brisket, pulled pork, chopped beef, pork ribs, etc. I queued for an hour at the incredibly popular La Barbecue truck and was impressed that they keep the line happy and patient with kegs of free beer while you wait. On recommendation I also visited both Stubbs BBQ and Blacks BBQ and had great food at both. Much like in [Portland](/travel/2015/03/11/portland-amazing/) there are many food trucks scattered around the city serving all sorts of food, I had gyros, donuts, spring rolls, tacos, smoothies, nachos and more.
 
-{% include image.html img="images/travel/Florida-TheAtaris.jpg" title="Massive beef rib" %}
+{% include image.html img="images/travel/Austin-Meat.jpg" title="Massive beef rib from Blacks BBQ" %}
 
 Rainey Street was another great local tip for a good night out and consisted of a street of old houses converted into bars featuring hundreds of types of craft beer and places to sit in their front and back yards. Like the majority of Austin, they had live music every night until 2am and many also had food trucks either in the backyard or out on the street. 
 
-{% include image.html img="images/travel/Florida-TheAtaris.jpg" title="Beer selection at Craft Pride" %}
+{% include image.html img="images/travel/Austin-Beer.jpg" title="Beer selection at Craft Pride" %}
 
-I'm told a visit to Austin would not be complete without seeing the SoCo district (South Congress) so I walked through and browsed the unique and often weird boutique shops, more food carts. $$$$$. 
+I'm told a visit to Austin would not be complete without seeing the famous SoCo shopping and cultural district (South Congress) so I walked through and browsed the unique and often weird boutique shops and sampled more food carts.
 
-Austin sits on the Colorado river and is connected by number of bridges crossing the river. I also visited some other noteworthy spots around the city such as the recognisable Capitol Building at the top of Congress Street (???) as well as the community graffiti art project off Lamar St (???). My personal highlight though was finding [Bacon]($$$linkk), a bacon themed restaurant serving up all types of meals centred around the best food known to man.
+Austin sits on the Colorado river and is connected by a number of bridges crossing the river. I walked along the popular pathway beside the river and also visited some other noteworthy spots around the city such as the recognisable Texas State Capitol Building at the top of Congress Avenue as well as the community graffiti park off Lamar Boulevard. My personal highlight though was finding [Bacon](http://baconaustin.com), a bacon themed restaurant serving up all types of meals centred around the best food known to man.
 
-{% include image.html img="images/travel/Florida-TheAtaris.jpg" title="Sunset on the River" %}
+{% include image.html img="images/travel/Austin-Sunset.jpg" title="Sunset on the River" %}
 
-{% include image.html img="images/travel/Florida-TheAtaris.jpg" title="Heaven" %}
+{% include image.html img="images/travel/Austin-Bacon.jpg" title="Heaven" %}
 
-On my last day I hired a car and got out of the city to explore some of the Texas countryside. Around 50km out of the city is Hamilton Pools, a $$$$$$$$$$$$$$$. My next stop was Krause Springs, a natural spring fed swimming hole that apparently maintains a 20ºC water temperature year round. It is a great spot to cool down from the Texan heat with caves, a waterfall and rope swing and I would imagine would get very busy during summer. Lucky for me, at this time of year there was barely anyone there despite it being 25-30ºC outside. My final stop before returning the car was Mt Bonnell, the highest point in Austin and a great spot for views of the whole city.
+On my last day I hired a car and got out of the city to explore some of the Texas countryside. Around 50km out of the city is Hamilton Pools, a natural glowing green pool with a 15m waterfall falling into it. My next stop was Krause Springs, a natural spring fed swimming hole that apparently maintains a 20ºC water temperature year round. It is a great spot to cool down from the Texan heat with caves, a waterfall and rope swing and I would imagine would get very busy during summer. Lucky for me, at this time of year there was barely anyone there despite it being 25-30ºC outside. My final stop before returning the car was Mt Bonnell, the highest point in Austin and a great spot for views of the whole city.
 
-{% include image.html img="images/travel/Florida-TheAtaris.jpg" title="Hamilton Pools" %}
+{% include image.html img="images/travel/Austin-HamiltonPools.jpg" title="Hamilton Pools" %}
 
-{% include image.html img="images/travel/Florida-TheAtaris.jpg" title="Krause Springs" %}
+{% include image.html img="images/travel/Austin-KrauseSprings.jpg" title="Krause Springs" %}
 
 I'm now continuing to fly west from Austin → San Diego as I surprisingly near the end of the 7 week US portion of my trip.

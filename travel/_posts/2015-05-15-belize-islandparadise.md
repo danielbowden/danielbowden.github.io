@@ -35,7 +35,7 @@ mapping:
 
 ##San Pedro
 
-Our first stop was San Pedro, a town on the southern part of the island of Ambergris Caye. Belize is a former British colony and member of the Commonwealth and is the only country in Central America whose official language is English, which was very helpful to us.
+Our first stop was San Pedro, a town on the southern part of the island of Ambergris Caye. Belize is a former British colony, member of the Commonwealth and is the only country in Central America whose official language is English, which was very helpful to us given our below average Spanish skills.
 
 On our first full day we found a lift up north and spent most of the day floating around in inner tubes and playing giant jenga at Palapa Bar, drinks in hand.
 
@@ -43,7 +43,7 @@ On our first full day we found a lift up north and spent most of the day floatin
 
 After betting on a game in [Cuba](/travel/2015/04/27/cuba/) that involves cruelly spinning a guinea pig around, we continued our awkward animal betting games and joined in on the famous Chicken Drop at Wahoos Lounge. It basically involves betting on numbers from a 100 grid and waiting for the chicken to shit on your number. I was "fortunate" enough to be selected to prep the chicken and had to wave it around in the air and blow air up its bum before putting it in the ring. Neither of us were winners in the three rounds we entered but it was an experience.
 
-Lauren and I rented a golf cart, the most popular mode of transport, to explore the island. We took turns behind the wheel and drove right to the southern end as well as up north. It was mostly sand and dirt roads, bumps and potholes. Perfect for doing slides until I almost lost Lauren out the side of the cart. It was great having the freedom to explore on our own and we stopped many times along the way for some good photo opportunities and to have a swim off a wharf.
+Lauren and I rented a golf cart, the most popular mode of transport, to explore the island. We took turns behind the wheel and drove right to the southern end as well as venturing up north. It was mostly sand and dirt roads, bumps and potholes. Perfect for doing slides until I almost lost Lauren out the side of the cart. It was great having the freedom to explore on our own and we stopped many times along the way for some good photo opportunities and to have a swim off a wharf.
 
 {% include image.html img="images/travel/Belize-GolfCart.jpg" title="Exploring in our golf cart" %}
 
@@ -67,9 +67,9 @@ Island life is tough, and we spent the next morning laying around in hammocks ov
 
 ##Placencia
 
-After a week relaxing on Caye Caulker we made our way to Placencia. This time transport would be by catamaran on a [three day sailing trip](linkkk) through the Caribbean. We had sixteen people in our group from all around the world plus three crew who looked after us very well. All food and alcohol was included on the trip and Jerry, Marvin and Charles ensured we never went hungry with quality meals and constant snacks. Between the many snorkelling and swimming stops we fished off the back of the boat, and when stopped we swapped the rod for a spear-gun and followed Marvin into the water so he could teach us. Anything caught became lunch or dinner and it was amazing to experience seafood so fresh. In the case of the conch ceviche, I was deep underwater watching when the shell was picked from the ocean floor. We also watched on as a fish was reeled in and cut up to be eaten as sashimi mere seconds after leaving the water.
+After a week relaxing on Caye Caulker we made our way to Placencia. This time transport would be by catamaran on a [three day sailing trip](http://raggamuffintours.com) through the Caribbean. We had sixteen people in our group from all around the world plus three crew who looked after us very well. All food and alcohol was included on the trip and Jerry, Marvin and Charles ensured we never went hungry with quality meals and constant snacks. Between the many snorkelling and swimming stops we fished off the back of the boat, and when stopped we swapped the rod for a spear-gun and followed Marvin into the water so he could teach us. Anything caught became lunch or dinner and it was amazing to experience seafood so fresh. In the case of the conch ceviche, I was deep underwater watching when the shell was picked from the ocean floor. We also watched on as a fish was reeled in and cut up to be eaten as sashimi mere seconds after leaving the water.
 
-At night we camped on tiny islands consisting mostly of sand, palm trees and clear, starry skies. The first being Rendezvous Caye, an island so small that no one permanently lives there. Our second night was Tobacco Caye, home to a small community of no more than 20-30 people. Each morning we got up and jumped straight in the sea to freshen up and cool off in what was already 25ºC at 7am.
+At night we camped on tiny islands consisting mostly of sand, palm trees and clear, starry skies. The first being Rendezvous Caye, an island so small that no one permanently lives there. We set up our tents just before sunset and then jumped back in the water to cool off, surrounded by warm, clear tropical water in every direction. We had a feast for dinner and sat drinking rum well into the night. As stories and laughter got louder, the only things being kept awake were the fish. Our second night was Tobacco Caye, home to a small community of no more than 20-30 people. Each morning we got up and jumped straight in the sea to freshen up and cool off in what was already ~25ºC at 7am.
 
 {% include image.html img="images/travel/Belize-SailingTrip.jpg" title="Our boat" %}
 
@@ -79,7 +79,7 @@ Pulling into Placencia it was a shame for the sailing trip to be over and to no 
 
 {% include image.html img="images/travel/Belize-SailingWater.jpg" title="Sailing life" %}
 
-Our first day in Placencia started late with a much needed sleep in after three days sailing in the sun and then consisted of laying about in hammocks reading a book. The following day we caught a local bus North and then found a nice local guy to give us a lift 25 minutes into Cockscomb National Park and agreed to pick us back up later in the day. We had started out early to try and avoid some of the heat as we hiked up a very steep trail through the already hot, steamy jungle. Thankfully we were rewarded at the end with a waterfall and swimming hole all to ourselves. 
+Our first day in Placencia started late with a much needed sleep in after three days sailing in the sun and then consisted of laying about in hammocks reading a book. The following day we caught a local bus North and found a nice local guy to give us a lift 25 minutes into Cockscomb National Park and agreed to pick us back up later in the day. We had started out early to try and avoid some of the heat as we hiked up a very steep trail through the already hot, steamy jungle. Thankfully we were rewarded at the end with a waterfall and swimming hole all to ourselves. 
 
 ##San Ignacio
 

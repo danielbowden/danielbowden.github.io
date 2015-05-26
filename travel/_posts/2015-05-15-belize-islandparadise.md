@@ -7,6 +7,7 @@ categories: travel
 comments: true
 image:
   thumb: travel/Belize-SailingTrip-th.jpg
+excerpt: Welcome to paradise. You made it! ...was the first thing we heard as we left immigration in San Pedro, Belize and were greeted by some happy locals. It had been a long, sweaty boat ride from Chetemal, Mexico across into Belize and was such a relief to just drop our bags at our accommodation and jump straight into the Caribbean Sea just ten steps away and in time to watch the sunset.
 mapping:
   locations:
     - title: San Pedro

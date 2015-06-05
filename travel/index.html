@@ -32,11 +32,10 @@ countries: 6
 			<div class="details">
 				{{ page.excerpt }}
 			</div>
-
 			<div class="stats">
 				{% include mapping/index_map.html %}
 				<ul>
-					<li>Days away from home: <span>XXX</span></li>
+					<li>Days away from home: <span id="dateResult"></span></li>
 					<li>Countries: <span>{{ page.countries }}</span></li>
 					<li>Flights: <span>{{ page.flights }}</span></li>
 				</ul>
@@ -54,3 +53,21 @@ countries: 6
 		</div>
 	</div>
 </div>
+
+<script type="text/javascript">
+
+var _MS_PER_DAY = 1000 * 60 * 60 * 24;
+
+function dateDiffInDays() {
+	var today = new Date();
+	var leftHome = new Date("2014/12/26");
+	var utc1 = Date.UTC(today.getFullYear(), today.getMonth(), today.getDate());
+	var utc2 = Date.UTC(leftHome.getFullYear(), leftHome.getMonth(), leftHome.getDate());
+
+	var result = Math.floor((utc1 - utc2) / _MS_PER_DAY);
+	document.getElementById("dateResult").innerHTML = result - 9; //-9 days for returning home
+}
+
+window.didLoad = dateDiffInDays();
+
+</script>

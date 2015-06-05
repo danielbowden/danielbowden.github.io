@@ -36,7 +36,7 @@ var jekyllMapping = (function () {
             this.map.fitBounds(bounds);
         },
         indexMap: function () {
-            this.plotArray(settings.pages);
+            this.plotArray(settings);
         },
         pageToMap: function () {
             if (typeof(settings.latitude) !== 'undefined' && typeof(settings.longitude) !== 'undefined') {
@@ -84,10 +84,12 @@ var jekyllMapping = (function () {
 
             this.map = new google.maps.Map(document.getElementById("google-mapping"), this.options);
 
-            if (settings.pages) {
-                this.indexMap();
+            
+
+            if (settings.locations) {
+                this.pageToMap();   
             } else {
-                this.pageToMap();
+                this.indexMap();
             }
         },
         loadScript: function (set) {

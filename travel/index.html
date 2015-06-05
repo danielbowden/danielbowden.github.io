@@ -19,6 +19,8 @@ flightpaths:
   - AUS-LAX-SAN,
   - LAX-MEX-HAV,
   - HAV-CUN
+flights: 20
+countries: 5
 ---
 
 <div class="travel-content">
@@ -30,7 +32,16 @@ flightpaths:
 			<div class="details">
 				{{ page.excerpt }}
 			</div>
+
+			<div class="stats">
+				{% include mapping/index_map.html %}
+				<ul>
+					<li>Days away from home: <span>XXX</span></li>
+					<li>Countries: <span>{{ page.countries }}</span></li>
+					<li>Flights: <span>{{ page.flights }}</span></li>
+				</ul>
 			</div>
+
 		</div>
 		<div class="travels">
 			<ul>

@@ -84,8 +84,6 @@ var jekyllMapping = (function () {
 
             this.map = new google.maps.Map(document.getElementById("google-mapping"), this.options);
 
-            
-
             if (settings.locations) {
                 this.pageToMap();   
             } else {

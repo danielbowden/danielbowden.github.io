@@ -17,6 +17,10 @@
   margin-bottom: 10px;
 }
 
+.travel-content .about {
+  margin-bottom: 10px;
+}
+
 .travel-content h2 {
   font-size: 24px;
   font-weight: 400;
@@ -24,51 +28,72 @@
 
 .stats {
   color: $dark;
-  padding: 20px;
+  padding: 10px;
   display: block;
-  min-height: 100px;
   border: 1px solid $grey;
   background-color: $white;
 }
 
 .stats ul {
-	list-style-type: none;
-	padding: 0px;
-	margin-bottom:0px;
-	text-align: center;
+  list-style-type: none;
+  padding: 0px;
+  margin-bottom:0px;
+  text-align: center;
 }
 
 .stats li {
-	color: $dark;
-	margin-bottom: 10px;
-	font-family: $body-font, monospace;
-	font-size: 20px;
+  color: $dark;
+  margin-bottom: 10px;
+  font-family: $body-font, monospace;
+  font-size: 20px;
 }
 
 .stats li span {
-	color: $blue;
+  color: $blue;
 }
 
 .travels ul {
-	list-style-type: none;
-	padding: 0;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
 
 .travels li {
-	color: $blue;
-	margin-bottom: 10px;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid $grey;
+  background-color: $white;
+  height: 100px;
 }
 
-.travels li span {
-	font-family: $body-font, monospace;
-	font-weight: 400;
+.travels li img {
+  float: left;
+  margin: 0 10px 0 0;
+  width: 120px;
+  height: 100%;
+  overflow: hidden;
 }
 
-.travels li a {
-	color: $dark;
+.travels li h2 {
+  margin: 0;
+  color: $dark;
 }
 
-.travels li a:hover {
+.travels li p {
+  color: $dark;
+  font-size: 20px;
+  margin: 0;
+}
+
+.travels li:hover {
+  border: 1px solid $blue;
+}
+
+.travels li:hover h2 {
+  color: $blue;
+}
+
+.travels li:hover p {
 	color: $blue;
 }
 

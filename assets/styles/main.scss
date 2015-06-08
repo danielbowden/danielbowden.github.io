@@ -1,11 +1,17 @@
 ---
 ---
 
-@import 'variables';
+// Modules
+@import 'mixins',
+        'variables';
 
-@import 'includes/base';
-@import 'includes/header';
-@import 'includes/footer';
-@import 'includes/content';
-@import 'includes/work';
-@import 'includes/travel';
+// Shared
+@import 'includes/base',
+        'includes/header',
+        'includes/footer',
+        'includes/content';
+
+// Layouts
+@import 'includes/work',
+        'includes/travel',
+        'includes/travel_list';

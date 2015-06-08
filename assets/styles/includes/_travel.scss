@@ -1,0 +1,33 @@
+.travel-single {
+  color: $dark;
+  font-size: 20px;
+  padding: 40px 20px;
+
+  a {
+    color: $blue;
+  }
+
+  .info {
+    margin-bottom: 20px;
+  }
+
+  .post-title {
+    font-size: 24px;
+    font-weight: 400;
+  }
+  .post-date {
+    font-size: 16px;
+  }
+
+  .stats {
+    color: $dark;
+    padding: 10px;
+    display: block;
+    border: 1px solid $grey;
+    background-color: $white;
+  }
+  .post {
+    margin-bottom: 20px;
+    @include clearfix;
+  }
+}

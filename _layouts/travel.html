@@ -5,20 +5,27 @@
 <body>
 	{% include header.html %}
 
-	<div class="travel-content">
+	<div class="travel-single">
 		<div class="wrapper">
-			<div class="about">
+			<div class="info">
 				<div class="post-title">
-					<a href="{{ site.url }}/travel">Recent travel &raquo; </a> {{ page.title }}
+					<a href="{{ site.url }}/travel">
+            Recent travel &raquo;
+          </a>
+          {{ page.title }}
 				</div>
-				<div class="post-details">
+				<div class="post-date">
 					{{ page.date | date_to_long_string }}
 				</div>
 			</div>
-			{% if page.mapping %}
+
+      {% if page.mapping %}
+        <div class="stats">
 			  	{% include mapping/map.html %}
+        </div>
 			{% endif %}
-			<div class="post">
+
+      <div class="post">
   				{{ content }}
   			</div>
   			{% if page.comments %}
@@ -35,7 +42,8 @@
 			{% endif %}
   		</div>
   	</div>
-	{% include footer.html %}
+
+  {% include footer.html %}
 	{% include scripts.html %}
 </body>
 </html>

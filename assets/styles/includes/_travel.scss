@@ -1,130 +1,33 @@
-.travel-content {
+.travel-single {
   color: $dark;
   font-size: 20px;
   padding: 40px 20px;
-  text-align: justify;
-}
 
-.travel-content .title {
-  color: $blue;
-  font-size: 24px;
-  font-weight: 400;
-  margin-bottom: 10px;
-}
-.travel-content .sub-title {
-  color: $blue;
-  font-weight: 400;
-  margin-bottom: 10px;
-}
+  a {
+    color: $blue;
+  }
 
-.travel-content .about {
-  margin-bottom: 10px;
-}
+  .info {
+    margin-bottom: 20px;
+  }
 
-.travel-content h2 {
-  font-size: 24px;
-  font-weight: 400;
-}
+  .post-title {
+    font-size: 24px;
+    font-weight: 400;
+  }
+  .post-date {
+    font-size: 16px;
+  }
 
-.stats {
-  color: $dark;
-  padding: 10px;
-  display: block;
-  border: 1px solid $grey;
-  background-color: $white;
-}
-
-.stats ul {
-  list-style-type: none;
-  padding: 0px;
-  margin-bottom:0px;
-  text-align: center;
-}
-
-.stats li {
-  color: $dark;
-  margin-bottom: 10px;
-  font-family: $body-font, monospace;
-  font-size: 20px;
-}
-
-.stats li span {
-  color: $blue;
-}
-
-.travels ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
-
-.travels li {
-  padding: 10px;
-  margin-bottom: 10px;
-  border: 1px solid $grey;
-  background-color: $white;
-  height: 100px;
-}
-
-.travels li img {
-  float: left;
-  margin: 0 10px 0 0;
-  width: 120px;
-  height: 100%;
-  overflow: hidden;
-}
-
-.travels li h2 {
-  margin: 0;
-  color: $dark;
-}
-
-.travels li p {
-  color: $dark;
-  font-size: 20px;
-  margin: 0;
-}
-
-.travels li:hover {
-  border: 1px solid $blue;
-}
-
-.travels li:hover h2 {
-  color: $blue;
-}
-
-.travels li:hover p {
-	color: $blue;
-}
-
-.post a {
-	color: $blue;
-}
-
-.post a:hover {
-	color: $dark;
-}
-
-.post-title {
-	color: $blue;
-	font-size: 24px;
-	font-weight: 400;
-}
-
-.post-title a {
-	color: $dark;
-}
-
-.post-title a:hover {
-	color: $blue;
-}
-
-.post-details {
-	text-align: right;
-}
-
-.google-mapping {
-	text-align: center;
-	height: 150px;
-	width: 100%;
+  .stats {
+    color: $dark;
+    padding: 10px;
+    display: block;
+    border: 1px solid $grey;
+    background-color: $white;
+  }
+  .post {
+    margin-bottom: 20px;
+    @include clearfix;
+  }
 }

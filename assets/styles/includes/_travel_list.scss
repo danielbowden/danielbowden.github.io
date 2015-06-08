@@ -1,0 +1,85 @@
+.travel-list {
+  color: $dark;
+  font-size: 20px;
+  padding: 40px 20px;
+
+  .info {
+    margin-bottom: 20px;
+  }
+
+  .title {
+    color: $blue;
+    font-size: 24px;
+    font-weight: 400;
+    margin-bottom: 10px;
+  }
+
+  .stats {
+    color: $dark;
+    padding: 10px;
+    display: block;
+    border: 1px solid $grey;
+    background-color: $white;
+
+    ul {
+      padding: 0px;
+      list-style: none;
+      text-align: center;
+
+      li {
+        color: $dark;
+        font-size: 20px;
+        margin-bottom: 10px;
+        font-family: $body-font, monospace;
+
+        span {
+          color: $blue;
+        }
+      }
+    }
+  }
+}
+
+
+.travels {
+  .travel-each {
+    color: $dark;
+    padding: 10px;
+    display: block;
+    margin-bottom: 20px;
+    border: 1px solid $grey;
+    background-color: $white;
+    @include clearfix;
+
+    &:hover {
+      color: $blue;
+      border: 1px solid $blue;
+    }
+
+    .thumb-wrapper {
+      float: left;
+      width: 120px;
+      height: 120px;
+      overflow: hidden;
+      margin-right: 10px;
+
+      img {
+        // Use if all images are sqaure
+        // width: 100%;
+        // height: auto;
+        display: block;
+      }
+    }
+    .text-wrapper {
+      float: left;
+      width: calc(100% - 130px);
+
+      .post-title {
+        font-weight: 400;
+      }
+      .post-date {
+        font-size: 16px;
+      }
+    }
+  }
+}

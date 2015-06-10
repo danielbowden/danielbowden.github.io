@@ -1,0 +1,14 @@
+<div id="google-mapping" style="height:250px;width:100%;">
+</div>
+{% include mapping/gmap_js.js %}
+<script type="text/javascript">
+
+{% assign travel_locations = "" | split: "" %}
+{% for post in site.categories.travel %}
+	{% for location in post.mapping.locations %}
+		{% assign travel_locations = travel_locations | push:location %}
+	{% endfor %}
+{% endfor %}
+
+    window.onload = function () { jekyllMapping.loadScript( {{ travel_locations | jsonify }} ) };
+</script>

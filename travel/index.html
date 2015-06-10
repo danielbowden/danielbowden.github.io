@@ -19,32 +19,59 @@ flightpaths:
   - AUS-LAX-SAN,
   - LAX-MEX-HAV,
   - HAV-CUN
+flights: 20
+countries: 6
 ---
 
-<div class="travel-content">
-	<div class="wrapper">
-		<div class="about">
-			<div class="title">
-				Recent travel
-			</div>
-			<div class="details">
-				{{ page.excerpt }}
-			</div>
-			<div class="sub-title">
-				Flight paths
-			</div>
-			{% if page.flightpaths %}
-		  		{% include flightpath/flightpath.html %}
-			{% endif %}
-		</div>
-		<div class="travels">
-			<ul>
-				{% for post in site.categories.travel %}
-				<li>
-  					<span>{{ post.date | date_to_long_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a>
-				</li>
-				{% endfor %}
-			</ul>
-		</div>
-	</div>
+<div class="travel-list">
+  <div class="wrapper">
+
+    <div class="info">
+      <div class="title">Recent travel</div>
+      <div class="details">
+        {{ page.excerpt }}
+      </div>
+      <div class="stats">
+        {% include mapping/index_map.html %}
+        <ul class="list">
+          <li>Days away from home: <span id="dateResult"></span></li>
+          <li>Countries: <span>{{ page.countries }}</span></li>
+          <li>Flights: <span>{{ page.flights }}</span></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="travels">
+      {% for post in site.categories.travel %}
+      <a class="travel-each" href="{{ post.url }}">
+        <div class="thumb-wrapper">
+          <img src="{{ site.url }}/images/{{ post.image.thumb }}" alt="{{ post.title }}"/>
+        </div>
+        <div class="text-wrapper">
+          <div class="post-title">{{ post.title }}</div>
+          <div class="post-date">{{ post.date | date_to_long_string }}</div>
+        </div>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
 </div>
+
+
+<script type="text/javascript">
+
+var _MS_PER_DAY = 1000 * 60 * 60 * 24;
+
+function dateDiffInDays() {
+  var today = new Date();
+  var leftHome = new Date("2014/12/26");
+  var utc1 = Date.UTC(today.getFullYear(), today.getMonth(), today.getDate());
+  var utc2 = Date.UTC(leftHome.getFullYear(), leftHome.getMonth(), leftHome.getDate());
+
+  var result = Math.floor((utc1 - utc2) / _MS_PER_DAY);
+  document.getElementById("dateResult").innerHTML = result - 9; //-9 days for returning home
+}
+
+window.didLoad = dateDiffInDays();
+
+</script>

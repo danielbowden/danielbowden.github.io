@@ -1,78 +1,33 @@
-.travel-content {
+.travel-single {
   color: $dark;
   font-size: 20px;
   padding: 40px 20px;
-  text-align: justify;
-}
 
-.travel-content .title {
-  color: $blue;
-  font-size: 24px;
-  font-weight: 400;
-  margin-bottom: 10px;
-}
-.travel-content .sub-title {
-  color: $blue;
-  font-weight: 400;
-  margin-bottom: 10px;
-}
+  a {
+    color: $blue;
+  }
 
-.travel-content h2 {
-  font-size: 24px;
-  font-weight: 400;
-}
+  .info {
+    margin-bottom: 20px;
+  }
 
-.travels ul {
-	list-style-type: none;
-	padding: 0;
-}
+  .post-title {
+    font-size: 24px;
+    font-weight: 400;
+  }
+  .post-date {
+    font-size: 16px;
+  }
 
-.travels li {
-	color: $blue;
-	margin-bottom: 10px;
-}
-
-.travels li span {
-	font-family: $body-font, monospace;
-	font-weight: 400;
-}
-
-.travels li a {
-	color: $dark;
-}
-
-.travels li a:hover {
-	color: $blue;
-}
-
-.post a {
-	color: $blue;
-}
-
-.post a:hover {
-	color: $dark;
-}
-
-.post-title {
-	color: $blue;
-	font-size: 24px;
-	font-weight: 400;
-}
-
-.post-title a {
-	color: $dark;
-}
-
-.post-title a:hover {
-	color: $blue;
-}
-
-.post-details {
-	text-align: right;
-}
-
-.google-mapping {
-	text-align: center;
-	height: 150px;
-	width: 100%;
+  .stats {
+    color: $dark;
+    padding: 10px;
+    display: block;
+    border: 1px solid $grey;
+    background-color: $white;
+  }
+  .post {
+    margin-bottom: 20px;
+    @include clearfix;
+  }
 }

@@ -27,6 +27,7 @@
     background-color: $white;
   }
   .post {
+    text-align: justify;
     margin-bottom: 20px;
     @include clearfix;
   }

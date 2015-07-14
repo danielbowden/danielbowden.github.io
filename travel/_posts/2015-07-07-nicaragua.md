@@ -9,25 +9,28 @@ image:
   thumb: travel/ElSalvador-ElTuncoSunset-th.jpg
 mapping:
   locations:
-    - title: El Tunco
+    - title: Leon
       latitude: 13.492910
       longitude: -89.383516
-    - title: Santa Ana
+    - title: Telica Volcano
       latitude: 13.992433
       longitude: -89.561310
-    - title: Juayua
+    - title: Cerro Negro Volcano
       latitude: 13.843651
       longitude: -89.747129
-    - title: Apaneca
+    - title: Surfing Turtle Lodge
       latitude: 13.859144
       longitude: -89.804633
-    - title: Ataco
+    - title: Little Corn Island
       latitude: 13.870175
       longitude: -89.850988
-    - title: Suchitoto
+    - title: Granada
       latitude: 13.936847
       longitude: -89.026390
-    - title: San Salvador
+    - title: Ometape Island
+      latitude: 13.701652
+      longitude: -89.224650
+    - title: San Juan Del Sur
       latitude: 13.701652
       longitude: -89.224650
 ---
@@ -50,7 +53,7 @@ The crater was 700m wide and it felt every bit that large and as we stood right 
 
 ##Poneloya
 
-The following morning we moved on to Surfing Turtle Lodge on the Pacific Coast. A hostel commonly referred to as one of the coolest places to visit in Central America and one that was referred to us by the owner who was our guide during our Mexico trip 18 months earlier. It is located right on the sand on an isolated beach island in Poneloya, accessed via boat and then horse and cart and takes an off the grid approach with solar panels, water tanks and a small garden providing much of the vegetables and eggs for the kitchen.
+The following morning we moved on to [Surfing Turtle Lodge](http://www.surfingturtlelodge.com/lodge/) on the Pacific Coast. A hostel commonly referred to as one of the coolest places to visit in Central America and one that was referred to us by the owner who was our guide during our Mexico trip 18 months earlier. It is located right on the sand on an isolated beach island in Poneloya, accessed via boat and then horse and cart and takes an off the grid approach with solar panels, water tanks and a small garden providing much of the vegetables and eggs for the kitchen.
 
 {% include image.html img="images/travel/imageName.jpg" title="Surfing Turtle Lodge" %}
 
@@ -70,24 +73,60 @@ The Corn Islands are situated 70kms east of the Carribean coast of Nicaragua and
 
 {% include image.html img="images/travel/imageName.jpg" title="Our own private beach" %}
 
-Much to my enjoyment, baseball is the most popular sport in Nicaragua. So much so that games were being played everywhere from the school playground with sticks, to adults playing an impromptu game on the side of the road in the dirt. TVs in restaurants and bars were always showing baseball whether it be local or from the US and in Leon we even witnessed a large crowd sitting on chairs in the middle of the street with a projector screen set up to show the local derby. Baseball fields and stadiums were everywhere, and even this remote island without roads or electricity for half the day still managed to have a field and proper grandstand. It is so widespread that I'm told the kids on Big Corn island even play baseball on the runway in between planes taking off!
+Much to my enjoyment, baseball is the most popular sport in Nicaragua. So much so that games were being played everywhere from the school playground with sticks, to adults playing an impromptu game on the side of the road in the dirt. TVs in restaurants and bars were always showing baseball whether it be local or from the US and in Leon we even witnessed a large crowd sitting on chairs in the middle of the street with a projector screen set up to show the local derby. Baseball fields and stadiums were everywhere, and even this remote island without roads or electricity for half the day still managed to have a field and proper grandstand. It is so widespread that I'm told the kids on Big Corn Island even play baseball on the runway in between planes taking off!
 
 ##Granada
 We landed back on the mainland in the capital city, Managua, on a propeller plane so small I was almost sitting next to the pilot. Our next destination was Granada and we made our way from the airport to the bus station just in time to make the next local bus. By this stage it was close to 4pm and we'd had no food all day. With no time to buy anything at the station we instead bought a can of drink each and a chicken pastry some guy was selling out of a container walking down the aisle of the bus. In total it was $1.50 and as an added bonus we didn't get food poisoning, in fact the pastry was pretty good.
 
 Unlike the rest of the country we found Granada to be quite touristy and pushy trying to offload tours, and handmade goods to any passing foreigners. The waiters all stood in the street with their restaurant menus and even some of the kids were uncharacteristically rude trying to sell goods or beg for money. Despite this we still managed to have a good time opting to explore the outer parts of town on foot and seeking out a more local environment. We stumbled across a softball game where the spectator entrance fee was 0.25c each and we sat in the rusty, crumbling grandstand watching on. The following day we took a boat around the Isletas of Lake Nicaragua, formed when the nearby volcano blew thousands of years ago. We weaved through the small islands, home to some big houses owned by millionaires and stopped at an island fort, built to protect the city of Granada from pirates in the 18th century.
 
+##Ometape Island
+
+We woke early to catch a 6:30am public bus with all the locals going to work. At this stage, almost six months in, it's been a while since I last worked and instead we were heading south to our next destination. Ometape is an island formed by two volcanoes rising from Lake Nicaragua and is accessible by ferry from the mainland. Upon arriving at the dock we learned that the next ferry was not for a few hours but we could instead take a dodgy looking boat for half the price and leaving much sooner. We hesitantly boarded and instead of taking the captain's advice to just sit on the concrete slab of the deck we followed another passenger downstairs to a dark, run down lower level. We watched on as the boat was loaded with not only people, but motorbikes, barrels, bags of chickens, and finally multiple stacks of 320 eggs were slid down a makeshift ramp to the lower level. After piling our bags on the ground we found a seat that wasn't broken only for a guy to come along and start picking up our bags. I was about to question it when I realised he was smiling and just moving them to higher ground whilst repeating "mucho agua". Sure enough within minutes of leaving the dock water was leaking into the boat and splashing from one end to the other as the boat rocked to and fro, eventually reaching a level high enough to wet our feet.
+
+Our hostel on the island was an impressive multi-storey treehouse looking structure made from branches and wooden slabs. Climbing to the top storey there was a small lookout and seats with views overlooking the lake and both volcanoes. We slept under mosquito nets though with the amount of bugs in the area this kept just as many in as it did out. We hired bikes and rode along the road under the sweltering midday sun passing beaches, plantations and small houses before eventually arriving at Ojo De Agua (the eye of the water) sweaty and exhausted. The promise of a swim at the end was the only thing that had kept us going so the sight of the natural spring pool filled with crystal clear water was a relief. The freshwater pool is fed from an underground river that comes from the volcano and is clean, cool and full of minerals. We floated around for several hours, taking photos and attempting to teach Lauren how to open her eyes underwater... with limited success.
+
+That night I took advantage of the hostel's all you can drink rum for $10 promotion as we sat around playing drinking games until the early hours. This however meant yet another hungover travel day as we made our way off the island via foot, two buses, a ferry and a taxi with several close calls of sickness along the way. We shared the taxi with a guy I met in the hostel and of course within minutes of the trip the taxi broke down. We quickly jumped out and gave it a push for a clutch start, the driver didn't seem phased and we continued on to San Juan Del Sur.
+
+##San Juan Del Sur
+
+San Juan Del Sur is a coastal party town on Pacific side of the country, and a spot I'd been counting down the days to visit. It came recommended by several friends who had visited in previous years and its popularity also became pretty obvious when talking to other travellers in the weeks leading up to it with the common question not "are you going to San Juan?", but "when are you going?".
+
+Our first night happened to fall on Canada Day so it was off to the Naked Tiger hostel for their big pool party. We happened to run into some friends we had made from several weeks earlier in Leon who had also made the pilgrimage to San Juan and danced by the pool drinking rum until late before walking back to our hostel conveniently next door.
+
+Our hostel, [Casa De Olas](http://www.casa-de-olas.com), was in an amazing spot on the mountain with a large infinity pool looking down to the beach. It is a real homely place run by an Australian couple, who take care of all their drunk guests as if they are their own kids. Meals each night are eaten like a family dinner with everyone sitting down together and their Monday night roasts are a must for anyone missing a home cooked meal and recovering from a big Sunday Funday the day before.
+
+{% include image.html img="images/travel/imageName.jpg" title="Not a bad setup for a hostel!" %}
+
+High on the hill overlooking the town of San Juan Del Sur sits 'Christ of the Mercy', a large statue of Jesus Christ reaching 24 metres in height. Lauren and I ventured away from the pool and the rums for long enough to walk the very steep streets up to statue for an amazing view down to the beach below.
+
+{% include image.html img="images/travel/imageName.jpg" title="The view from the statue" %}
+
+As luck would have it our volcano hiking group of friends from back in [Guatemala](linkkk) had planned to arrive in San Juan the same weekend as us and we excitedly arranged to stay at the same hostel. We were so glad the timing worked out so well and it was great to catch up with Anthea, Jamie and Aaron again after going our separate ways more than a month earlier and assuming we would not see each other again. Even better was the fact that they had all brought more friends along which meant we now had a sizeable and friendly group to hang out with. 
+
+Two other friends, Ryan and Shaun, from the same volcano trip were also now working in another hostel in town which hosts a regular Friday night party so in what was to be a warm up for Sunday we went to meet up with them.....????
+
+By the time Sunday Funday rolled around
+
+Canadians, US, UK 
+
+timing 
+
+Christ of the Mercy
+
+Casa De Olas
+
+Sunday Funday
+
+Canada Day
+
+Friday night Pachamamas
 
 _________
 
 
 Gallo pinto, Nicaragua's national dish, is made with white rice and red beans that are cooked together and then fried.
 
-Early morning to catch a 6:30am public bus with all the locals going to work. At this stage, 6 months in, I barely know what work is anymore and instead we are heading south to the island of Ometape. Biggest lake in Central America?. An island made up of two volcanoes...?
-
-All you can drink rum for $10 meant another hungover travel day on several forms of transport. 
-
-Shared a taxi with a guy I met in the hostel. Clutch start the taxi. Driver didn't seem phased so we continued on to San Juan. 
 
 Jumped off the bus too early to realise it was the wrong stop. Quickly jumped back on and sat down. Minutes later a guy came up to Lauren, "chica, chica" and was holding her wallet. She had dropped it outside somewhere. Everyone around us on the bus both local and foreigner gasped at how lucky she was that someone was nice enough to chase her down and give it back
 

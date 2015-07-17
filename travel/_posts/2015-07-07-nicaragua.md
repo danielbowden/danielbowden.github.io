@@ -10,29 +10,29 @@ image:
 mapping:
   locations:
     - title: Leon
-      latitude: 13.492910
-      longitude: -89.383516
+      latitude: 12.434876
+      longitude: -86.877358
     - title: Telica Volcano
-      latitude: 13.992433
-      longitude: -89.561310
+      latitude: 12.602292
+      longitude: -86.800318
     - title: Cerro Negro Volcano
-      latitude: 13.843651
-      longitude: -89.747129
+      latitude: 12.507148
+      longitude: -86.702566
     - title: Surfing Turtle Lodge
-      latitude: 13.859144
-      longitude: -89.804633
+      latitude: 12.389745
+      longitude: -87.058142
     - title: Little Corn Island
-      latitude: 13.870175
-      longitude: -89.850988
+      latitude: 12.283919
+      longitude: -82.978613
     - title: Granada
-      latitude: 13.936847
-      longitude: -89.026390
+      latitude: 11.930067
+      longitude: -85.954392
     - title: Ometape Island
-      latitude: 13.701652
-      longitude: -89.224650
+      latitude: 11.490463
+      longitude: -85.541010
     - title: San Juan Del Sur
-      latitude: 13.701652
-      longitude: -89.224650
+      latitude: 11.254401
+      longitude: -85.872191
 ---
 
 After a long bus journey with two border crossings in one day we had made it through Honduras and into Nicaragua, rolling into the outskirts of Leon just as the sun had gone down. Being the forward thinking planners that we are lately, we had no accommodation booked and waved down a taxi to take us into the middle of town. Our first attempt at a hostel was met with rejection as they were full so instead we had to walk around Leon in the dark carrying our bags and deciphering Spanish instructions from locals in the street as to where to find the next hostel we had in mind.

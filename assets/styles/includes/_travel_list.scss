@@ -22,8 +22,15 @@
     border: 1px solid $grey;
     background-color: $white;
 
+    .title {
+      text-align: center;
+      margin-bottom: 0px;
+      margin-top: 10px;
+    }
+
     ul {
       padding: 0px;
+      margin-top: 10px;
       list-style: none;
       text-align: center;
 

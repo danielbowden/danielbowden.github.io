@@ -126,3 +126,4 @@ For a country that was supposed to be dangerous and rough it gave us nothing but
 
 Next we are making our way down to El Salvador, a country often skipped past and one many have warned us against but we figured we would at least give it a try.
 
+{% include video/vimeo.html videoID="132388915" %}

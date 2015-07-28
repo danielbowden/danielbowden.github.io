@@ -18,9 +18,6 @@ mapping:
     - title: Rio Dulce
       latitude: 15.656264
       longitude: -88.998679
-    - title: Finca Paraiso
-      latitude: 16.898204
-      longitude: -88.061663
     - title: Lanquin
       latitude: 15.579869
       longitude: -89.979486

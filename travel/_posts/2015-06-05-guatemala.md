@@ -18,9 +18,6 @@ mapping:
     - title: Rio Dulce
       latitude: 15.656264
       longitude: -88.998679
-    - title: Finca Paraiso
-      latitude: 16.898204
-      longitude: -88.061663
     - title: Lanquin
       latitude: 15.579869
       longitude: -89.979486
@@ -126,3 +123,4 @@ For a country that was supposed to be dangerous and rough it gave us nothing but
 
 Next we are making our way down to El Salvador, a country often skipped past and one many have warned us against but we figured we would at least give it a try.
 
+{% include video/vimeo.html videoID="132388915" %}

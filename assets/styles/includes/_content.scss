@@ -65,3 +65,15 @@
   height: 100%;
   padding: 10px;
 }
+
+.video-wrapper .vimeo-player {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: $white;
+  border: 1px solid $grey;
+  color: $dark;
+  width: 97.08%;
+  height: 100%;
+  padding: 10px;
+}

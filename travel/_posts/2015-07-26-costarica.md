@@ -9,12 +9,33 @@ image:
   thumb: travel/CostaRica-Manzanillo-th.jpg
 mapping:
   locations:
-    - title: 
-      latitude: 
-      longitude: 
+    - title: San Jose
+      latitude: 9.935523
+      longitude: -84.091094
+    - title: La Fortuna
+      latitude: 10.467725
+      longitude: -84.642706
+    - title: Monteverde
+      latitude: 10.313729
+      longitude: -84.824667
+    - title: Montezuma
+      latitude: 9.654717
+      longitude: -85.067675
+    - title: Santa Teresa
+      latitude: 9.642448
+      longitude: -85.169148
+    - title: Manuel Antonio
+      latitude: 9.392250
+      longitude: -84.137443
+    - title: Uvita
+      latitude: 9.163471
+      longitude: -83.735604
     - title: Corcovado National Park
       latitude: 8.536931
       longitude: -83.569247
+    - title: Puerto Viejo
+      latitude: 9.658271
+      longitude: -82.752746
 ---
 
 It was a long and eventful journey from Nicaragua to Costa Rica, starting with 3 hours standing around in a hot carpark at the border. Once in the country, slow roadworks and bad roads meant that we were well behind schedule. We had planned to jump off on the side of the road along the way and find another bus into the mountains but by the time we reached this spot it was in complete darkness and pouring rain. Given it had taken all day and we still weren't there, weren't sure where to get the next bus, would be arriving in town late (if at all), and had no accommodation booked, we made a last minute decision to continue on to San Jose for the night before organising to find a bus there in the morning.

@@ -1,6 +1,6 @@
 ---
 layout: travel
-title: Costa Rica - Wildlife, Rainforests & Pura Vida
+title: Costa Rica - Wildlife, rainforests & pura vida
 description: Travel notes
 modified: 2015-07-26
 categories: travel

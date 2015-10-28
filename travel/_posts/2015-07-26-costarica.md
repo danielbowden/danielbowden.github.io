@@ -155,3 +155,5 @@ We continued south on the bikes towards the border to Panama and arrived at the 
 Many people had not bothered with Costa Rica or skipped through it quickly due to its increased costs in comparison to other Central American countries. This day capped off an already amazing 3 weeks there and it was impossible to wipe the smile from our face.
 
 The next country for us is Panama.
+
+{% include video/youtube.html videoID="Q4-6JS-SBw8" %}

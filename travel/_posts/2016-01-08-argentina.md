@@ -37,17 +37,15 @@ The quality of buses surprisingly and disappointedly dropped in comparison to [P
 
 On our first full day we made our way by local bus out to the Cacheuta Hot Springs, and hopped between its many pools, ranging in temperature from freezing to scalding 50ºC. Surrounded by mountains and cliffs, we lay about in the sun for most of the day until an employee came around to kick us out at closing time.
 
-
-Two of the main industries of the Mendoza area are olive oil production and Argentine wine. The region around Greater Mendoza is the largest wine producing area in Latin America
-The two main industries of the Mendoza region are olive oil production and Argentine wine ????with the greater area is the largest wine producing area  with the area being internationally renowned for its Malbec wines., ??. Mendoza is most renowned for its wine 
-We joined a wine tasting tour, taking us by van to several of the area's wineries from small family owned boutiques pushing out XX bottles a year to large modern companies producing XXXXs??. In a region famous for Malbec?? the tastings were solely red wine. There was no hiding the fact that we know nothing about wine nor do we drink it at home but we actually enjoyed the tastings and may finally be turning into adults.
+The greater Mendoza region accounts for nearly two thirds of the country's entire wine production and is the largest wine producing area in Latin America.
+We joined a wine tasting tour, taking us by van to several of the area's wineries from small family owned boutiques to large modern companies producing 1000's of bottles a year. In a region famous for Malbec the tastings were solely red wine. There was no hiding the fact that we knew nothing about wine nor do we drink it at home but we actually enjoyed the tastings and may finally be turning into adults...
 
 ##Bariloche
 
-Back in Argentina after a few weeks in Chile, we continued heading further south to Bariloche, a town ??? we had officially made it into the start of Patagonia??. With snowcapped mountains visible and a constant icy wind blowing through town it was freezing, and being only December I shudder to think what it would be like in winter. We dug out all our warm clothes we had been carrying for months and layered up to explore the town.
-The town's Swiss?? influence is ??. We shamelessly walked in and out of each of the chocolate shops, feigning interest to get free samples at each one and turning the morning into an impromptu chocolate shop crawl. We got the feeling that they had seen our scruffy backpacker type before and were either giving us pity samples or the young casual staff couldn't care less who they gave chocolates to.
+Back in Argentina after a few weeks in Chile, we continued heading further south to Bariloche, a town bordering a large glacial lake surrounded by the snowcapped Andes mountain range. We had officially made it into the start of Patagonia, our goal since the start of the trip. The visible snow and constant icy wind blowing off the lake meant the town was freezing, and being December I shudder to think what it would be like in winter. We dug out all the warm clothes we had been carrying for months and layered up to explore.
+The town's Swiss alpine architecture and influence was quite a change to the typical Spanish we had grown used to seeing. Also considered the chocolate capital of Argentina, the main street of Bariloche is home to countless chocolate shops. We shamelessly walked in and out of many of them, feigning interest to get free samples at each one and turning the morning into an impromptu chocolate shop crawl. We got the feeling that they had seen our scruffy backpacker type before and were giving us pity samples.
 
-Somewhat recovered from hiking Villarrica Volcano in [Pucón, Chile](/travel/2015/12/29/chile) just days before we were ready to face yet another hike. We set off to follow the Circuito de Chico for the day with the first stop hiking Cerro Campanario. We took the steep trail up beside the chairlift full of cheaters taking the easy way up and after a quick but strenuous walk we were rewarded with amazing panoramic views at the top of the surrounding lakes.
+Somewhat recovered from hiking Villarrica Volcano in [Pucón, Chile](/travel/2015/12/29/chile) just days before we were ready to face yet another hike. We set off to follow the Circuito de Chico for the day with the first stop hiking Cerro Campanario. We took the steep trail up alongside the chairlift full of cheaters taking the easy way up and after a quick but tough walk we were rewarded with amazing panoramic views at the top of the surrounding lakes.
 
 {% include image.html img="images/travel/imageName.jpg" title="The view from Cerro Campanario" %}
 
@@ -57,7 +55,7 @@ After making our way back down we continued around the circuit, hiking through t
 
 {% include image.html img="images/travel/imageName.jpg" title="Taking in the views" %}
 
-We walked several kilometres to the next viewpoint, ??, over a lake before continuing down the hill to the shore. Exhausted from walking all day we were ready to head back. Still close to 15km from town we gave up at the base of the next steep hill and hitch-hiked our way back to town.
+We walked several kilometres to the next viewpoint over a large, blue lake before continuing down the hill to the shore. At 4pm we were exhausted from walking all day we were ready to head back yet still close to 15km from town we gave up at the base of the next steep hill and hitch-hiked our way back to town.
 
 Other popular hike in Bariloche is to Refugio Frey. Starting at the base of Cerro Catedral ski resort the trail takes you into the National Park and through a wide variety of scenery, with forests, streams, lakes and towering peaks. The 24km round trip took around 4 hours each way and was relatively easy going apart from the final climb to the refuge built on the edge of the lake. The snowcapped peaks reflected in the water as we ate lunch in the sun on the shore sitting in some home made sun lounges and admiring the view. 
 
@@ -65,7 +63,7 @@ Other popular hike in Bariloche is to Refugio Frey. Starting at the base of Cerr
 
 ##El Chaltén
 
-Getting this far down the continent the towns became few and far between. After a 22 hour bus ride to El Chaltén we were 1,400kms further south into Patagonia and worlds away from the hot, tropical beaches of Central America only five months earlier. The sunrise arrival into El Chaltén and its Parque Nacional Los Glaciers (Glaciers National Park) instantly validated?? our decision to aim for Patagonia as we were rewarded with this view.
+Getting this far down the continent the towns became few and far between. After a 22 hour bus ride to El Chaltén we were 1,400kms further south into Patagonia and worlds away from the hot, tropical beaches of Central America only five months earlier. The sunrise arrival into El Chaltén and its Parque Nacional Los Glaciers (Glaciers National Park) instantly validated our decision to aim for Patagonia as we were rewarded with this view.
 
 {% include image.html img="images/travel/imageName.jpg" title="Entering Parque los Glaciers" %}
 
@@ -96,11 +94,11 @@ With Christmas nearing we left El Calafate and Argentina and crossed back into [
 
 ##Buenos Aires
 
-Buenos Aires is a large, modern city featuring many of the comforts and facilities of home. It is home to XXXXXX??? people and info??
+Buenos Aires is the capital and largest city of Argentina. The modern city features many of the comforts and facilities of home making it a top tourist destination and the most visited city in all of South America. Quality of life is ranked one of the best in Latin America and the per capita income is among the highest in the region. As a result many young people speak English, and their interests are very similar to that of home in terms of fashion, music, and technology. 
 
-Sticking to our plan of making it to Buenos Aires for New Year, we flew up from Rio Gallegos??, Patagonian Chile the day before New Years Eve and had managed to secure accommodation in one of the bigger party hostels for the first four days to make the most of the celebrations. The first thing we noticed was the heat, we had become conditioned to the snowy, cold weather of Patagonia and found it difficult to adjust again to the hot and humid 40ºC ?? heat.
+Sticking to our plan of making it to Buenos Aires for New Year, we flew up from Río Gallegos, Patagonia the day before New Years Eve and had managed to secure accommodation in one of the bigger party hostels for the first four days to make the most of the celebrations. The first thing we noticed was the heat, we had become conditioned to the snowy, cold weather of Patagonia and found it difficult to adjust again to the hot and humid 40ºC heat of Buenos Aires.
 
-On the first full day we joined a hostel walking tour of the La Boca area, info, streets, colourful buildings?? It was a good opportunity to meet some people before the nights partying and we made friends with Nam from Texas and Stephen?? who funnily enough lived about 1/2 hour from us in Sydney. We were led into Boca Juniors stadium, home of ?? and some world famous names such as ??. The stadium can hold 50,000 people and is said to be one of the best places in the world to watch soccer because the fans are so passionate. 
+On the first full day we joined a hostel walking tour of the La Boca area, full of colourful houses and tango performances right on the street. It was a good opportunity to meet some people before the nights partying and we made friends with Nam from Texas and Stephen who funnily enough lived about 1/2 hour from us in Sydney. We were led into La Bombonera stadium, home of professional football team, Boca Juniors, and some world famous names such as Diego Maradona. The stadium can hold 50,000 people and is said to be one of the best places in the world to watch soccer because the fans are so passionate. 
 
 Argentina, and especially Buenos Aires, is known for its late nightlife. It is not uncommon to see even families with young children enjoying dinner in a restaurant at close to midnight on a weeknight. New Years Eve was of course no different and the party started at the hostel at around 10pm where we were fortunate to find the bar packed with many people to celebrate with. Lewis, a friend we had made back in the Amazon Jungle in Bolivia, happened to be staying at the same hostel and had a group of friends with him. Just as been the case throughout our whole trip, we also ran into several other people we had met along the way down South America. With the hostel party finishing at 2am, and already well past Lauren's bedtime, they had organised buses to transport the hundreds of people to a huge oceanfront nightclub that spanned across indoor and outdoor stages and dance floors. We drank and danced along with thousands of locals until the sun came up and we decided it was time to leave at 7am. 
 

@@ -1,6 +1,6 @@
 ---
 layout: travel
-title: Argentina
+title: Argentina - 
 description: Travel notes
 modified: 2016-01-08
 categories: travel
@@ -9,12 +9,27 @@ image:
   thumb: travel/thumbnail-th.jpg
 mapping:
   locations:
-    - title: 
-      latitude: 
-      longitude: 
-    - title: 
-      latitude: 
-      longitude: 
+    - title: Salta
+      latitude: -24.786562
+      longitude: -65.416212
+    - title: Mendoza
+      latitude: -32.889529
+      longitude: -68.844272
+    - title: Bariloche
+      latitude: -41.136388
+      longitude: -71.315204
+    - title: El Chaltén
+      latitude: -49.331509
+      longitude: -72.885969
+    - title: El Calafate
+      latitude: -50.337598
+      longitude: -72.269938
+    - title: Buenos Aires
+      latitude: -34.609587
+      longitude: -58.387317
+    - title: Puerto Iguazú
+      latitude: -25.597881
+      longitude: -54.578676
 ---
 
 With a long bus through the desert from San Pedro de Atacama we arrived in Salta, our first stop in Argentina. As explained in my previous post we moved in and out of both Argentina and neighbouring [Chile](/travel/2015/12/29/chile) as we made our way down the continent in order to avoid any backtracking through the long, skinny countries. 

@@ -1,6 +1,6 @@
 ---
 layout: travel
-title: Argentina - 
+title: Argentina - Steak, wine & glaciers
 description: Travel notes
 modified: 2016-01-08
 categories: travel

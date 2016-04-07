@@ -42,7 +42,7 @@ Pupusas are a traditional dish in El Salvador and as a result are found everywhe
 
 As stupid as it sounds the most difficult of decisions we have these days now involve questions like *"where should we go next?"* and so after much longer than it should've taken we made the choice to see some more of the country. With most visitors typically continuing out of El Salvador after visiting the coast we found it tough to find either public transport or a private transfer to Santa Ana. Instead we settled for a taxi to take us the 2.5 hours inland.
 
-##Santa Ana
+## Santa Ana
 
 Our [hostel](http://www.hostalcasaverde.com) in Santa Ana was centrally located within the town and thanks to the friendly and helpful owner, Carlos, we had no trouble locating the many terminals for getting the local chicken buses around the area. The bus experience itself was unlike any other. Leaving from within the local market and moving along at crawling pace to get out onto the main roads meant there was ample chance for different vendors to board the moving bus at the front door and walk the aisle attempting to sell their goods to the passengers before jumping off at the back door. We had seen the basics like drinks, chips and fruit on other Central American buses before but this was in another league. One guy was even forward thinking enough to sell both coca-cola and toothpaste (but nothing else). Much to our amusement we took note of the items we saw for sale just on the one bus trip in the space of 10 minutes:
 
@@ -92,7 +92,7 @@ We stopped for lunch before taking the advice of the staff and climbing the stee
 
 By all reports the capital city, San Salvador, was one to avoid. Regarded as one of the most dangerous cities in the world, thanks to its uncomfortably high murder rate, it wasn't a place we had planned to spend much time in. The public bus network however meant that we had to make a few brief stops to change buses and make our way to another terminal on the other side of the city. Besides the now familiar strange looks in our direction it was thankfully incident free and we were on our last bus of three for the day heading to Suchitoto.
 
-##Suchitoto
+## Suchitoto
 
 Suchitoto is another small colonial town of Spanish influence. Its cobblestone streets overlook the Suchitlán lake and it is a popular weekend destination for Salvadorans. We were here for just one night before our long day of travel the following day and spent our afternoon in town exploring the area before ordering as many varieties of pupusas we could find for dinner.
 

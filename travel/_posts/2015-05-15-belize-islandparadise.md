@@ -34,7 +34,7 @@ mapping:
 
 ...was the first thing we heard as we left immigration in San Pedro, Belize and were greeted by some happy locals. It had been a long, sweaty boat ride from Chetemal, Mexico across into Belize and was such a relief to just drop our bags at our accommodation and jump straight into the Caribbean Sea just ten steps away and in time to watch the sunset.
 
-##San Pedro
+## San Pedro
 
 Our first stop was San Pedro, a town on the southern part of the island of Ambergris Caye. Belize is a former British colony, member of the Commonwealth and is the only country in Central America whose official language is English, which was very helpful to us given our below average Spanish skills.
 
@@ -48,7 +48,7 @@ Lauren and I rented a golf cart, the most popular mode of transport, to explore 
 
 {% include image.html img="images/travel/Belize-GolfCart.jpg" title="Exploring in our golf cart" %}
 
-##Caye Caulker
+## Caye Caulker
 
 After a few days it was time to move on and we took a short 45 minute boat ride over to Caye Caulker, a sleepy island with the motto "Go Slow" which perfectly described island life. We explored the main street, a sandy strip filled mostly with pedestrians and bikes and one of only three main roads on the island, and found a bar called Lazy Lizard on the split between the North and South island. It is very popular and has the best spot on the island for swimming, relaxing, drinking and watching the sun set over the water. We ended up visiting daily during our week long stay, enjoying many Caribbean rums in the sun.
 
@@ -66,7 +66,7 @@ We booked into a full day sailing trip to take us out snorkelling at the Norther
 
 Island life is tough, and we spent the next morning laying around in hammocks over the water alternating between reading, eating and napping. We moved to the water for the afternoon and floated around swimming until dinner. A very tiring day.
 
-##Placencia
+## Placencia
 
 After a week relaxing on Caye Caulker we made our way to Placencia. This time transport would be by catamaran on a [three day sailing trip](http://raggamuffintours.com) through the Caribbean. We had sixteen people in our group from all around the world plus three crew who looked after us very well. All food and alcohol was included on the trip and Jerry, Marvin and Charles ensured we never went hungry with quality meals and constant snacks. Between the many snorkelling and swimming stops we fished off the back of the boat, and when stopped we swapped the rod for a spear-gun and followed Marvin into the water so he could teach us. Anything caught became lunch or dinner and it was amazing to experience seafood so fresh. In the case of the conch ceviche, I was deep underwater watching when the shell was picked from the ocean floor. We also watched on as a fish was reeled in and cut up to be eaten as sashimi mere seconds after leaving the water.
 
@@ -82,7 +82,7 @@ Pulling into Placencia it was a shame for the sailing trip to be over and to no 
 
 Our first day in Placencia started late with a much needed sleep in after three days sailing in the sun and then consisted of laying about in hammocks reading a book. The following day we caught a local bus North and found a nice local guy to give us a lift 25 minutes into Cockscomb National Park and agreed to pick us back up later in the day. We had started out early to try and avoid some of the heat as we hiked up a very steep trail through the already hot, steamy jungle. Thankfully we were rewarded at the end with a waterfall and swimming hole all to ourselves. 
 
-##San Ignacio
+## San Ignacio
 
 We left the Caribbean coast behind for now and got up early to make our way inland to San Ignacio. The four hour trip was an entertaining experience, sharing a dusty, sweaty ride in two different buses filled with locals. One lady was carrying a large unprotected and decorated birthday cake while another in the next seat from us was carrying at least four live chickens...
 

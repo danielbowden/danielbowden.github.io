@@ -14,7 +14,7 @@ mapping:
       longitude: -6.814184
 ---
 
-##Newbridge, Kildare - The Wedding
+## Newbridge, Kildare - The Wedding
 After hearing big things about Irish weddings from multiple sources in the months leading up to the trip I had high hopes and big expectations for Bec and Liam's Wedding especially knowing that the O'Keeffes were such a large and fun family. This wedding did not disappoint! In fact I'd go as far as to say it was the most entertaining and enjoyable wedding I have ever been to. To be fair to other weddings I've been to this one did go at least twice as long!
 
 The [hotel](https://www.facebook.com/TheKeadeenHotel) itself was fantastic and it made a big difference having the whole wedding staying on location. You not only had a chance to catch up with everyone as they trickled in to check-in in the lead up to the day they were also all still around at breakfast the morning after to reflect on, or refresh, memories from the night (or more likely early hours) before.

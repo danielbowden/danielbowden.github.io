@@ -26,7 +26,7 @@ I departed for Hokkaido, Japan on the 24th January this time flying alone Sydney
 
 Previous snow trips around the world have been at most two weeks on snow and you always felt like you had to go out every day and all day regardless of weather, conditions, exhaustion or hangover or else feel like you were wasting the time and money. This trip I had chosen to stay for this long because I wanted to experience closer to what it would be like to live there rather than be on holiday and be able to pick the best days, skip the windy or poor visibility periods, have a sleep in and go out later or even be done by lunch. Though unlike most others that were working there and would often miss the good snow days, I wouldn't be working :)
 
-##Niseko
+## Niseko
 Having been to both Niseko and Hakuba on previous trips and scoring amazing snow in both, I chose to return to Niseko purely for the accessibility to not only the mountains but the nightlife and restaurants. I'm staying in [Owashi Lodge](http://owashilodge.com), a hostel with one of the best locations for any type of accommodation on the whole Hirafu area of the mountains. I'm in a two-person share room and managed to secure the bottom bunk from day one. My current roommate is from Singapore though he will be leaving in a few days and I'll no doubt get someone new. 
 
 Almost immediately after arriving on day one I got changed into my snow gear and headed straight up the mountain for the afternoon. That night I stuck to the hostel bar and met some of the other guests, my first friend conveniently being the bartender.

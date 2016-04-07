@@ -42,7 +42,7 @@ It was a long and eventful journey from Nicaragua to Costa Rica, starting with 3
 
 It was 11pm by this stage and we found a shit hole of a hostel in San Jose. Every building in the street was covered in barbed wire and Lauren could've sworn Snoop Dogg was the security guard. The hostel only had one free bed in a dorm but it was so late that the guy didn't want to turn us away for fear we would not find anywhere else. Instead we shared a tiny bottom bunk for an uncomfortable and broken nights sleep. If there was one positive to come from the tiring day, the guy only charged us for the one bed ($8)...
 
-##La Fortuna
+## La Fortuna
 
 The next day we finally made it to our intended destination, La Fortuna, and took it easy walking around exploring the town.
 
@@ -57,7 +57,7 @@ Our last day at La Fortuna was spent at the nearby hanging bridges walk, a 3.2km
 
 {% include image.html img="images/travel/CostaRica-HangingBridges.jpg" title="Suspension bridge" %}
 
-##Monteverde
+## Monteverde
 
 There are surprisingly bad roads in Costa Rica and with the public buses set to take an estimated 9 hours we instead took the "jeep-boat-jeep" transport from La Fortuna to Monteverde. As well as being a much faster trip it also involved a scenic boat trip across Lake Arenal in between the two mini-bus (not jeep...) rides. 
 
@@ -86,7 +86,7 @@ On the way out we stopped in to see hummingbirds feeding and sat down to have a 
 
 {% include image.html img="images/travel/CostaRica-Hummingbird.jpg" title="Hummingbird mid flight" %}
 
-##Montezuma
+## Montezuma
 
 We got up for another early morning bus trip, moving away from the cool mountain temperatures and wet rainforests out to the Pacific coast where the heat was back to what we expected. We took a ferry across from the mainland to the Nicoya Peninsula and then a long, slow bus to the popular beachside town of Montezuma at the southern tip.
 
@@ -98,13 +98,13 @@ On our final day in Montezuma we followed the river upstream, bypassing the warn
 
 {% include image.html img="images/travel/CostaRica-MontezumaWaterfall.jpg" title="Montezuma waterfall" %}
 
-##Santa Teresa
+## Santa Teresa
 
 The decision was made to move around the peninsula to Santa Teresa and see some more of the area whilst we were there. Santa Teresa is another sleepy surf town consisting of a long, straight stretch of road running alongside the beach scattered with houses, restaurants and accommodation. We took the opportunity to relax and spent our stay swimming and surfing, walking along the beach, and laying around reading a book.
 
 We ended up staying in a scary and empty hostel with not only the room to ourself but the whole place. It did not look like anyone had stayed there for weeks or maybe even months. The owner was almost impossible to find when you needed him, however the room was clean and it was in a good spot so we were happy enough though at night Lauren still insisted that I double check the door locks... 
 
-##Manuel Antonio
+## Manuel Antonio
 
 Heading south past the capital, San Jose, our next stop was Manuel Antonio. Multiple forms of slow transport made for another long day of travel starting at 7am with a bus, then the ferry back across to the mainland, a taxi to the bus station and finally a long bus, eventually arriving at our next accommodation by 5pm.
 
@@ -124,7 +124,7 @@ Manuel Antonio National Park is the second most visited park in Costa Rica and i
 
 The walk finished at a refreshing beach where the monkeys and raccoons have become so used to people that they were raiding bags on the beach and even opening zippers. We went for a swim and on the way back managed to spot another two three-toed sloths lazing in the trees above us.
 
-##Uvita
+## Uvita
 
 Uvita is a small village in southern Costa Rica and was a good spot to base ourselves for a day trip to a nearby national park. We spent the afternoon relaxing with some down time in the hammocks. The hostel is owned by a friendly Italian woman with her own restaurant on site. We ate dinner there most nights with the Italian meals also including homemade bread and dessert. The food was good quality and the variety was a nice change from the excitingly named "typical plate" we had been eating throughout Costa Rica for weeks prior. The owner however was horrified when Lauren requested chicken in her pesto pasta and was never really nice to us again after that.
 
@@ -136,7 +136,7 @@ The following morning we took a boat down the river and out through the river mo
 
 We had a slow morning before walking uphill to the nearby waterfalls and swimming holes. Passing the main pool, where a couple of other visitors were swimming, we followed the river upstream across the difficult and slippery rocks finding small pools and waterfalls to ourselves all the way up. Slowly making our way back down we stopped in each of the pools for a swim and fought the flow of water to climb into the rock pools and sit at the base of the waterfalls for a natural spa.
 
-##Puerto Viejo
+## Puerto Viejo
 
 With an early morning start we managed to make it across the country in a day to Puerto Viejo on the Caribbean coast by way of multiple public buses and avoided having to stop for a night in San Jose. With the long travel days becoming the norm in Costa Rica we have grown used to the longer trips which is just as well as we are told it only gets worse once we are moving around South America. We had been craving sushi for a while and were keen to reward ourselves after spending all day on a bus. Lucky for us, and very unlucky for them, we found a restaurant stupid enough to offer all you can eat sushi and we took full advantage of the offer seeing many other tables come and go whilst we sat and ate 105 pieces combined, wary as they tried to fill us up with miso soup.
 

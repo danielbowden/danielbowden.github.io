@@ -48,7 +48,7 @@ Looking to get out of the city for the day we took a day trip to Quebrada de las
 
 Argentina is also famously known for its soft, baked empanadas, their version of the meat pie. Conveniently located a short walk from our hostel was the 'Patio of Empanadas', an open air style area of small shops selling almost exclusively empanadas. Turning it more into an activity than just a meal we sat, repeatedly ordering, *"dos mas"* from the wide variety on the menu. Even after 10 filling empanadas between us the total bill came to only $7 AUD.
 
-##Mendoza
+## Mendoza
 
 The quality of buses surprisingly and disappointedly dropped in comparison to [Peru](/travel/2015/10/31/peru) whilst the price doubled, or in some cases even tripled! The 18 hour overnight bus trip from Salta was not nearly as painful as it sounds with the both of us well and truly used to sleeping on buses by now.
 

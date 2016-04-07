@@ -57,7 +57,7 @@ On our first full day we made our way by local bus out to the Cacheuta Hot Sprin
 The greater Mendoza region accounts for nearly two thirds of the country's entire wine production and is the largest wine producing area in Latin America.
 We joined a wine tasting tour, taking us by van to several of the area's wineries from small family owned boutiques to large modern companies producing 1000's of bottles a year. In a region famous for Malbec the tastings were solely red wine. There was no hiding the fact that we knew nothing about wine nor do we drink it at home but we actually enjoyed the tastings and may finally be turning into adults...
 
-##Bariloche
+## Bariloche
 
 Back in Argentina after a few weeks in Chile, we continued heading further south to Bariloche, a town bordering a large glacial lake surrounded by the snowcapped Andes mountain range. We had officially made it into the start of Patagonia, our goal since the start of the trip. The visible snow and constant icy wind blowing off the lake meant the town was freezing, and being December I shudder to think what it would be like in winter. We dug out all the warm clothes we had been carrying for months and layered up to explore.
 The town's Swiss alpine architecture and influence was quite a change to the typical Spanish we had grown used to seeing. Also considered the chocolate capital of Argentina, the main street of Bariloche is home to countless chocolate shops. We shamelessly walked in and out of many of them, feigning interest to get free samples at each one and turning the morning into an impromptu chocolate shop crawl. We got the feeling that they had seen our scruffy backpacker type before and were giving us pity samples.
@@ -76,7 +76,7 @@ Another popular hike in Bariloche is to Refugio Frey. Starting at the base of Ce
 
 {% include image.html img="images/travel/Argentina-RefugioFrey.jpg" title="Refugio Frey" %}
 
-##El Chaltén
+## El Chaltén
 
 Getting this far down the continent, the towns became few and far between. After a 22 hour bus ride to El Chaltén we were 1,400kms further south into Patagonia and worlds away from the hot, tropical beaches of Central America only five months earlier. The sunrise arrival into El Chaltén and its Parque Nacional Los Glaciers (Glaciers National Park) instantly validated our decision to aim for Patagonia as we were rewarded with this view.
 
@@ -91,7 +91,7 @@ After two long days of walking we rewarded ourselves that night with a local spe
 
 {% include image.html img="images/travel/Argentina-ElChalten.jpg" title="Hiking views" %}
 
-##El Calafate
+## El Calafate
 
 Still within the 726,927 hectare Los Glaciares National Park, we continued 220km south to El Calafate. By far the main attraction in the area is the Perito Moreno Glacier, one of the more accessible glaciers in the world. At 250km<sup>2</sup> it is the world's third largest reserve of fresh water and unlike most other glaciers that are retreating as a result of changing climates, Perito Moreno is still advancing and remarkably at a rate of up to two metres a day. 
 
@@ -107,7 +107,7 @@ I could've watched it roar and split apart for hours but we were off to the boat
 
 With Christmas nearing we left El Calafate and Argentina and crossed back into [Chile](/travel/2015/12/29/chile), pushing further south towards the bottom of the continent.
 
-##Buenos Aires
+## Buenos Aires
 
 Buenos Aires is the capital and largest city of Argentina. The modern city features many of the comforts and facilities of home making it a top tourist destination and the most visited city in all of South America. Quality of life is ranked one of the best in Latin America and the per capita income is among the highest in the region. As a result many young people speak English, and their interests are very similar to that of home in terms of fashion, music, and technology. 
 
@@ -125,7 +125,7 @@ Wanting to experience a different part of the city we moved hostels to the Paler
 
 As I have already mentioned multiple times, Argentina is famed for its meat and I excitingly discovered Buenos Aires was the pinnacle. Huge steaks could be found in restaurants on almost every street. We treated ourselves to a nice dinner at one of the more popular steak restaurants and I didn't hesitate to order the 800g monster of a sirloin steak. Lauren impressively chose the 400g and in our quest to be adults we both ordered wine. We each polished off what was one of the thickest and most tender steaks we had ever had along with many small side dishes that they threw in before we slowly waddled our way home unable to move for the rest of the night. After around a week in Buenos Aires, we had seen and done everything we had planned to do and it was time for another long bus trip.
 
-##Puerto Iguazú
+## Puerto Iguazú
 
 Eighteen hours later and our overnight bus had travelled from Buenos Aires up to Puerto Iguazú in the far north of the country. The town exists almost exclusively for tourism due to its close proximity to Iguazú Falls. Surrounded by rainforest, Puerto Iguazú is unbearably hot and humid especially during this time of year with the temperature barely dropping from day to night. Mosquitoes also thrived in this climate and repellent seemed to be little deterrent.
 

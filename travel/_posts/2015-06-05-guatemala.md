@@ -63,7 +63,7 @@ Romance, luxury and privacy were shortlived as later the following day we were b
 
 {% include image.html img="images/travel/Guatemala-Swing.jpg" title="Me trying to catch the frisbee and vortex off the swing" %}
 
-##Rio Dulce
+## Rio Dulce
 
 The next day was a travel day and we took a bus from Flores down to Rio Dulce. Our accommodation was a short boat ride away in a hostel built like a three storey tree house above the water. Thankfully they provided mosquito nets to sleep under as the shallow wetlands were heaven to every type of insect that wants to bite. The place was run by a friendly couple and was cheap, quiet, served great food and was impressively well built, especially when I later learned it was built by hand by an Australian guy without any power tools. Rio Dulce is located on the eastern side of Guatemala and lies around the river with most locals opting for boats over cars to get around.
 
@@ -75,7 +75,7 @@ We took local transport, a collectivo, to Finca Paraiso beside a village in the 
 
 {% include image.html img="images/travel/Guatemala-Kids.jpg" title="Young love" %}
 
-##Lanquin
+## Lanquin
 
 Lanquin is located five hours north in the centre highlands of the country. According to the map our van seemed to take a "shortcut" right up and over the mountain instead of around it. The dirt road was so bumpy that it was impossible to do anything but look out the window and at times that was the last thing you felt like doing when it was a sheer cliff right beside you and no guard rails. The driver laughed and thought he was doing us a favour by driving as close to the edge as possible so that we could get a photo. We passed everything on the single lane road from horses and wild dogs to semi-trailers before eventually arriving at our next home for three nights, Zephyr lodge, a hostel perched on a hill with a brand new resort style pool and surrounded by views of mountains and a river. The showers and toilets even had open air windows so you could look out to the mountains as you went about your business. A nights accommodation here was a splurge at $14/night in comparison to most of the other places we stayed.
 
@@ -85,7 +85,7 @@ Semuc Champey was the main reason we stopped in Lanquin and included a tour thro
 
 {% include image.html img="images/travel/Guatemala-SemucChampey.jpg" title="Semuc Champey from above" %}
 
-##Antigua
+## Antigua
 
 We shared a packed minibus eight hours down to Antigua with our new found friends Anthea, Jamie, Jane and Aaron and discussed plans to book a volcano hike together. They talked us into the overnight trek to camp on Acatenango Volcano overlooking Volcano Fuego, famous for being constantly active. We teamed up with some more of their friends that were arriving the next day and were lucky enough to have our group make up the whole tour. The trek was the hardest thing any of us had ever done. We had to carry all supplies including sleeping bags, clothes, food, tents and enough water to last yourself the two days. After five and a half hours of walking straight up we had arrived at the campsite. Exhaustion, altitude and dehydration from trying to conserve your water all played a part in the struggle to reach camp but it was all forgotten the second we saw our first volcano eruption. We went into it with low expectations on seeing an eruption but as it turns out at one stage Fuego was erupting almost every 20 minutes. Each eruption was as exciting as the first with everyone cheering and shouting as it went off. The bigger ones caused the ground to tremble and sent red lava lighting up the sky before running down the side. 
 
@@ -103,7 +103,7 @@ Despite the lessons being a fun activity we really need to improve our Spanish b
 
 {% include image.html img="images/travel/Guatemala-Antigua.jpg" title="Antigua streets" %}
 
-##Lake Atitlan
+## Lake Atitlan
 
 As previously mentioned, the roads and especially the driving were worryingly bad in Guatemala and the minibus to Lake Atitlan was no different. When you also combine the fact that most of the vans have bald tyres, are overloaded with people, and the drivers reluctant to slow down even in the pouring rain I came to the conclusion that it was easier to relax if you accepted that you are going to crash eventually.
 

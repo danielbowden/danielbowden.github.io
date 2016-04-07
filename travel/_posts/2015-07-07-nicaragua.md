@@ -39,7 +39,7 @@ After a long bus journey with two border crossings in one day we had made it thr
 
 Nicaragua is referred to as the country of Lakes and Volcanoes and with 19 volcanoes and two of the largest freshwater lakes in Central America it's not hard to see why. Both the climate and culture vary greatly between the Pacific and Carribean side of the country and we had a lot we wanted to see and do. Nicaragua was one of the countries I had been most looking forward to visiting and we ended up spending 3.5 weeks exploring its many beaches, volcanoes, lakes and islands and making plenty of friends along the way.
 
-##Leon
+## Leon
 
 The next morning we set off to explore and find breakfast. Stopping in at the local markets, we found a friendly lady selling street food cooked on a small coal fire and sat down at her two seat table area for a plate of tasty grilled chicken with rice and salad. By mid morning Leon was already unbearably hot with the humidity making walking around even harder. We took refuge from the heat in a smoothie shop for cheap ~$2 smoothies, a refreshing treat that quickly became a regular habit throughout the country thanks to the cheap cost of living and our desire to keep cool.
 
@@ -55,7 +55,7 @@ The crater was 700m wide and it felt every bit that large as we stood right on t
 
 {% include image.html img="images/travel/Nicaragua-TelicaVolcano3.jpg" title="The top of Telica Volcano, 700m wide crater" %}
 
-##Poneloya
+## Poneloya
 
 The following morning we moved on to [Surfing Turtle Lodge](http://www.surfingturtlelodge.com/lodge/) on the Pacific Coast. A hostel commonly referred to as one of the coolest places to visit in Central America and one that was referred to us by the owner who was our guide during our Mexico trip 18 months earlier. It is located right on the sand on an isolated beach island in Poneloya, accessed via boat and then horse and cart and takes an off the grid approach with solar panels, water tanks and a small garden providing much of the vegetables and eggs for the kitchen.
 
@@ -69,7 +69,7 @@ One activity I was certain not to miss was the daily late afternoon beach volley
 
 Being such a small and remote spot, occupied only by the hostel guests, it created a great social atmosphere and the evenings were usually spent making friends over drinking games before moving out to the late night beach bar for a bonfire on the sand and games of giant Jenga complete with entertaining and sometimes embarrassing rules for each piece.
 
-##Little Corn Island
+## Little Corn Island
 
 The typical backpacker trail through Nicaragua largely focuses on the western side of the country, though with a bit of research we had found that the Corn Islands in the middle of the Caribbean on the Eastern side were an amazing yet isolated and unfrequented paradise. Making it over to the Corn Islands can be quite the mission but we had a bit of money up our sleeves and nothing but time so we thought we would make the effort, and an effort it was. In one day our methods of transport door-to-door from Surfing Turtle to Little Corn Island consisted of firstly riding in the back of a horse and cart, then a boat, then a 2.5hr taxi to the airport, then a 2hr small propeller plane, then a taxi, then a 1hr boat, and finally walking. 
 
@@ -81,12 +81,12 @@ The Corn Islands are situated 70kms east of the Carribean coast of Nicaragua and
 
 Much to my enjoyment, baseball is the most popular sport in Nicaragua. So much so that games were being played all over the country in everywhere from the school playground with sticks, to adults playing an impromptu game on the side of the road in the dirt. TVs in restaurants and bars were always showing baseball whether it be local or from the US and in Leon we even witnessed a large crowd sitting on chairs in the middle of the street with a projector screen set up to show the local derby. Baseball fields and stadiums were everywhere, and even this remote island without roads or electricity for half the day still managed to have a field and proper grandstand. It is so widespread that I'm told the kids on Big Corn Island even play baseball on the runway in between planes taking off!
 
-##Granada
+## Granada
 We landed back on the mainland in the capital city, Managua, on a propeller plane so small I was almost sitting next to the pilot. Our next destination was Granada and we made our way from the airport to the bus station just in time to make the next local bus. By this stage it was close to 4pm and we'd had no food all day. With no time to buy anything at the station we instead bought a can of drink each and a chicken pastry some guy was selling out of a container walking down the aisle of the bus. In total it was $1.50 and as an added bonus we didn't get food poisoning, in fact the pastry was pretty good.
 
 Unlike the rest of the country, we found Granada to be quite touristy and pushy trying to offload tours, and handmade goods to any passing foreigners. The waiters all stood in the street with their restaurant menus and even some of the kids were uncharacteristically rude trying to sell goods or beg for money. Despite this we still managed to have a good time opting to explore the outer parts of town on foot and seeking out a more local environment. We stumbled across a softball game where the spectator entrance fee was 0.25c each and we sat in the rusty, crumbling grandstand watching on. The following day we took a boat around the Isletas of Lake Nicaragua, formed when the nearby volcano blew thousands of years ago. We weaved through the small islands, home to some big houses owned by millionaires and stopped at an island fort, built to protect the city of Granada from pirates in the 18th century.
 
-##Ometape Island
+## Ometape Island
 
 We woke early to catch a 6:30am public bus with all the locals going to work. At this stage, almost six months in, it's been a while since I last worked and instead in our tough life we were heading south to our next holiday destination. Ometape is an island formed by two volcanoes rising from Lake Nicaragua and is accessible by ferry from the mainland. Upon arriving at the dock we learned that the next ferry was not for a few hours but we could instead take a dodgy looking boat for half the price and leaving much sooner. We hesitantly boarded and instead of taking the captain's advice to just sit on the concrete slab of the deck we followed another passenger downstairs to a dark, run down lower level. We watched on as the boat was loaded with not only people, but motorbikes, barrels, bags of chicken, and finally multiple stacks of 320 eggs were slid down a makeshift ramp to the lower level. After piling our bags on the ground we found a seat that wasn't broken only for a guy to come along and start picking up our bags. I was about to question it when I realised he was smiling and just moving them to higher ground whilst repeating "mucho agua". Sure enough within minutes of leaving the dock water was leaking into the boat and splashing from one end to the other as the boat rocked to and fro, eventually reaching a level high enough to wet our feet.
 
@@ -100,7 +100,7 @@ We hired bikes and rode along the road under the sweltering midday sun passing b
 
 That night I took advantage of the hostel's "all you can drink rum for $10" promotion as we sat around playing drinking games until the early hours. This however meant yet another hungover travel day as we made our way off the island via foot, two buses, a ferry and a taxi with several close calls of sickness along the way. We shared the taxi with a guy I met in the hostel and of course within minutes of the trip the taxi broke down. We quickly jumped out and gave it a push for a clutch start, the driver didn't seem phased and we continued on to San Juan Del Sur.
 
-##San Juan Del Sur
+## San Juan Del Sur
 
 San Juan Del Sur is a coastal party town on the Pacific side of the country, and a spot I'd been counting down the days to visit. It came recommended by several friends who had visited in previous years and its popularity also became pretty obvious when talking to other travellers in the weeks leading up to it with the common question not "are you going to San Juan?", but "when are you going?". The biggest drawcard for everyone coming to the area is Sunday Funday, a huge all day pool crawl party between the hostels throughout town that takes place every Sunday and sees hundreds of travellers flood into the town each weekend to take part.
 

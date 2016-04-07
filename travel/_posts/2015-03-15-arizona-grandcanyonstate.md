@@ -36,14 +36,14 @@ I left Portland early in the morning and arrived into a much hotter Phoenix, Ari
 
 My first day in Flagstaff was cloudy so I opted to let the Grand Canyon wait and I set off early to explore other spots I had in mind.
 
-##Grand Falls
+## Grand Falls
 On recommendation from a drunk guy in a bar the night before I drove for over an hour along a bumpy dirt road in the dry Arizona desert by myself in my shitty rental car. I hadn't seen one other person and just as I was about to give up and turn around I found this place...
 
 {% include image.html img="images/travel/Arizona-GrandFalls.jpg" title="Grand Falls" %}
 
 It was the last thing I expected to see after driving through a flat, dry red dirt desert for an hour. 
 
-##Painted Desert
+## Painted Desert
 
 Driving through the desert and some small remote towns was very interesting. The landscape changed shape and colours so frequently that there was always something to pull over and take a photo of. 
 
@@ -51,7 +51,7 @@ Driving through the desert and some small remote towns was very interesting. The
 
 {% include image.html img="images/travel/Arizona-StraightRoads.jpg" title="Straight roads" %}
 
-##Grand Canyon
+## Grand Canyon
 
 I got up early and drove straight out to the Grand Canyon hoping the beat any crowds. It ended up being a great move as there was so much traffic heading in as I was leaving. I also picked a great day for it as the blue sky made an excellent backdrop against the coloured cliffs. The clear day was also ideal to see far into the distance in every direction from within the canyon. From the south rim I hiked the Kaibab Trail to Cedar Ridge, approximately 5km round trip down the canyon. I can only assume the time estimates of 2-3hrs are aimed at Americans as I'm no hiker and it took me an hour and 15 minutes walking time.
 
@@ -61,7 +61,7 @@ The hike was fantastic and it was great to get down into and see the Grand Canyo
 
 {% include image.html img="images/travel/Arizona-GrandCanyonPanorama.jpg" title="Grand Canyon panorama" %}
 
-##Sedona
+## Sedona
 
 Based on several recommendations I took a drive from Flagstaff down to Sedona to have a look around. You didn't have to even venture far from the road to see the massive, bright red sandstone formations.
 
@@ -69,7 +69,7 @@ Based on several recommendations I took a drive from Flagstaff down to Sedona to
 
 {% include image.html img="images/travel/Arizona-Sedona.jpg" title="Sedona landscape" %}
 
-##Nascar
+## Nascar
 
 I took the chance to do something I can't do at home and grabbed a ticket to the Nascar at [Phoenix International Raceway](http://www.phoenixraceway.com). I didn't get the memo about ear plugs or ear muffs though and it was deafeningly loud. It was a very American experience to say the least..
 
@@ -77,7 +77,7 @@ I took the chance to do something I can't do at home and grabbed a ticket to the
 
 {% include image.html img="images/travel/Arizona-PhoenixRaceway.jpg" title="Phoenix International Raceway" %}
 
-##Baseball
+## Baseball
 
 By pure coincidence the MLB spring training Cactus League was on while I was here and even better the Giants were playing Arizona on my last night in Phoenix. I bought a ticket in a great seat and drove up to Salt River Fields at Talking Stick.
 

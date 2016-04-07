@@ -26,7 +26,7 @@ From [New Orleans](/travel/2015/03/23/neworleans-partyfoodmusic/) I rented a car
 
 {% include image.html img="images/travel/Florida-PanamaCityBeachSunset.jpg" title="Panama City Beach sunset" %}
 
-##Panama City Beach
+## Panama City Beach
 After missing most of my Australian summer being away in cold weather I was so keen to finally get to the beach. I'd heard PCB was one of America's biggest spring break spots so I stopped in there for 5 days to party with the college kids and see if it really was anything like the movies.
 
 On my first morning I walked up the beach looking for something to do and not knowing where to go. I got talking to groups doing the same as I went along and was told to follow them up to a beach party a few kilometres up the beach. I'm glad I did as this was the spring break I had imagined. Hundreds of people all swimming, drinking and dancing on the beach. They take the fraternity stuff very seriously down in the south and the large frat groups came well prepared. They all buried flags on flagpoles into the sand so their friends could find each other, came with beer pong tables, coolers (eskies to normal people) full of ice and beer, shot glasses, beer bongs, shade shelters and speakers.
@@ -45,7 +45,7 @@ The Alabama accent was amusing, strong and unusual and the self-confessed rednec
 
 `Guy: "But you speak English so well? What language do they speak down there?"`
 
-##Orlando
+## Orlando
 I left Panama City Beach on a Friday and hired another, this time basic, rental car to drive the ~6hrs across the state to Orlando. Out of all the places I have driven in the US for some reason Florida is the worst and most stressful. Their drivers are far more erratic, aggressive and impatient. Speaking of stress I also stupidly managed to run the rental car to the lowest petrol level I have seen. The motorway had no petrol stations and the car got so low it even stopped the flashing warning estimate how many more miles it had left and just showed empty. I fortunately just made it and didn't get stuck on the 5 lane road...
 
 The Australian accent once again worked in my favour and I made friends with the owner of a bar in Downtown Orlando. I had an amazing burger for dinner, was given a ridiculous amount of beers, shots and doubled spirits yet to my protest at the end of the night he refused to let me pay. A win for the backpacker budget!
@@ -54,7 +54,7 @@ I love it when things just work out and the reason I stopped in Orlando, as luck
 
 {% include image.html img="images/travel/Florida-TheAtaris.jpg" title="The Ataris" %}
 
-##South Beach, Miami
+## South Beach, Miami
 
 I went by Greyhound bus down 5.5hrs from Orlando to Miami and then took an Uber into South Beach. My driver was a crazy but friendly Brazilian guy who was keen on showing me as much as he could on the drive in even if this meant stopping in the middle of the road so he could point at girls or in the middle of a bridge so that he could show me the water view... My favourite line from him though as we pulled into the chaos of Ocean Drive:
 

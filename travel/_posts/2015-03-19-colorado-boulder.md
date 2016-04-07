@@ -31,7 +31,7 @@ Just like one of my previous stops, ["Portland, Oregon - An amazing place"](/tra
 
 {% include image.html img="images/travel/Boulder-CUCampusPool.jpg" title="University of Colorado campus grounds" %}
 
-##College life
+## College life
 It turns out college life IS just like the movies! I could not believe that fraternities, and sororities actually exist along with everything that goes with it including greek letter organisation names, frat houses, membership initiation, and little brother - big brother / little sister - big sister responsibilities. It's funny to an outsider but they seem to take it seriously and were more than happy to answer all my stupid questions. The Hill district was where I spent a lot of my time. It is opposite the university and is the centre of college life containing many bars and home to many of the frat and sorority houses.
 
 {% include image.html img="images/travel/Boulder-FraternityHouse.jpg" title="Frat house in real life" %}

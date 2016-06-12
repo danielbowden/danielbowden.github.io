@@ -100,3 +100,5 @@ Despite its beauty, the main drawcard for the tour is not the beach but a snorke
 {% include image.html img="images/travel/Galapagos-GalapagosShark.jpg" title="Galápagos shark" %}
 
 We were happy with our approach to tackle the Galápagos on our own, opting to island hop and tailor our 8 day visit around the many places and animals we wanted to see. The Galápagos Islands are not typically on a backpackers itinerary due to cost constraints and whilst it could have been far cheaper for us had we not packed so much into our stay and taken so many day tours it could also have been much more expensive if we had taken the cruise route. We saw it as a once in a lifetime opportunity and it was never something we had considered skipping knowing we were already in that part of the world. It is truly an amazing and unbelievable place and after taking in excess of 2000 photos during that time it really is a photographers heaven. Everyday felt like a National Geographic documentary and it has been a definite highlight in my already crowded list over the past 8 months of travel.
+
+{% include video/youtube.html videoID="uyZYks2q4b0" %}

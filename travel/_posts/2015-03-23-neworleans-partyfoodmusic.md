@@ -27,7 +27,7 @@ It is like a whole different world down here, one with more fun and less ridicul
 
 {% include image.html img="images/travel/NewOrleans-HugeAssBeers.jpg" title="A few of these hit the spot" %}
 
-Bourbon street was the heart of the nightlife with live music in pretty much every venue, every place full of people both downstairs and throwing beads down from the overhanging balconies up top and cheap strong drinks wherever you looked. I lost count of the amount of times in many different bars I asked for a beer and was given 3. When I questioned it I was told its 3 for the price of 1...
+Bourbon street was the heart of the nightlife with live music in pretty much every venue, every place full of people both downstairs and throwing beads down from the overhanging balconies up top and cheap, strong drinks wherever you looked. I lost count of the amount of times in many different bars I asked for a beer and was given 3. When I questioned it I was told its 3 for the price of 1...
 
 {% include image.html img="images/travel/NewOrleans-BourbonStreet2.jpg" title="Bourbon street" %}
 
@@ -37,7 +37,7 @@ MyBar @ 635 always had a crowd as it featured duelling pianos with the very tale
 
 {% include image.html img="images/travel/NewOrleans-StreetMusicians2.jpg" title="More musicians" %}
 
-The french quarter was more than just nightlife and I spent my days, well afternoons..., walking the unique and skinny streets exploring. The history and architecture was very different to anywhere else I had been before with colourful buildings lining the streets almost all with iron balconies and gardens. Horse drawn carts carrying passengers go up and streets amongst the cars. As mentioned New Orleans or even Louisiana is also famous for food and it was in these streets where you could find some interesting and amazing meals. I walked up and down Decatur St, Royal St and every cross street inbetween exploring and searching for some good spots. I never had a bad meal and tried alligator poppers, spicy boiled crawfish, shrimp po boys, blackened catfish, beignets, and plenty of creole dishes such as jambalaya, gumbo and etouffee.
+The french quarter was more than just nightlife and I spent my days, well afternoons..., walking the unique and skinny streets exploring. The history and architecture was very different to anywhere else I had been before with colourful buildings lining the streets, almost all with iron balconies and gardens. Horse drawn carts carrying passengers travelled up and down the streets amongst the cars. As mentioned, New Orleans or even Louisiana, is also famous for food and it was in these streets where you could find some interesting and amazing meals. I walked up and down Decatur St, Royal St and every cross street inbetween exploring and searching for some good spots. I never had a bad meal and tried alligator poppers, spicy boiled crawfish, shrimp po boys, blackened catfish, beignets, and plenty of creole dishes such as jambalaya, gumbo and etouffee.
 
 {% include image.html img="images/travel/NewOrleans-Crawfish.jpg" title="Boiled crawfish" %}
 

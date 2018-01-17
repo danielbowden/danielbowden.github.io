@@ -1,0 +1,23 @@
+.steemit {
+  color: $grey;
+  text-align: center;
+  padding: 20px;
+  font-size: 14px;
+
+  .logo {
+    width: 90px;
+    height: 25px;
+  }
+  .steem-logo {
+    width: 50px;
+    height: 50px;
+  }
+  p {
+    text-align: center;
+  }
+  a {
+    color: $dark;
+    padding-bottom: 2px;
+    border-bottom:1px dotted $light;
+  }
+}

@@ -1,23 +1,23 @@
 ---
 layout: main
 title: Portfolio & Travel Blog
-tags: [iOS, software, engineer, mobile, objective-c, Sydney]
+tags: [iOS, software, engineer, mobile, swift, ruby, objective-c, software engineer, Sydney]
 ---
 
 <div class="content">
 	<div class="wrapper">
 		<div class="about">
 			<div class="sub-title">
-				Software engineer based in Sydney, Australia.
+				{{ site.owner.about }}
 			</div>
 			<div class="details">
-				Specialising in mobile development and interested in exposure to exciting new technologies, innovative ideas, social interactivity and the opportunity to experiment and learn new things everyday.
+				{{ site.owner.details }}
 			</div>
 		</div>
 
 		<div class="work">
 			<div class="title">
-				Recent work
+				Work
 			</div>
 			<div class="apps">
 				{% for app in site.categories.work %}

@@ -9,7 +9,7 @@
   }
 
   .title {
-    color: $blue;
+    color: $accent;
     font-size: 24px;
     font-weight: 400;
     margin-bottom: 10px;
@@ -41,7 +41,7 @@
         font-family: $body-font, monospace;
 
         span {
-          color: $blue;
+          color: $accent;
         }
       }
     }
@@ -60,8 +60,8 @@
     @include clearfix;
 
     &:hover {
-      color: $blue;
-      border: 1px solid $blue;
+      color: $accent;
+      border: 1px solid $accent;
     }
 
     .thumb-wrapper {

@@ -4,14 +4,14 @@
 {% if page.tags %}<meta name="keywords" content="{{ page.tags | join: ', ' }}">{% endif %}
 
 {% if page.categories contains "travel" %}
-{% if site.owner.twitter %}<!-- Twitter Cards -->
+{% if site.owner.twitter-handle %}<!-- Twitter Cards -->
 {% if page.image.feature %}<meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:image" content="{{ site.url }}/images/{{ page.image.feature }}">
 {% else %}<meta name="twitter:card" content="summary">
 <meta name="twitter:image" content="{% if page.image.thumb %}{{ site.url }}/images/{{ page.image.thumb }}{% else %}{{ site.url }}/images/{{ site.owner.avatar-banner }}{% endif %}">{% endif %}
 <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
 <meta name="twitter:description" content="{% if page.date %} {{ page.date | date_to_long_string }} -{% endif %} {% if page.excerpt %}{{ page.excerpt | strip_html }}{% else %}{{ site.owner.bio }}{% endif %}">
-<meta name="twitter:creator" content="@{{ site.owner.twitter }}">{% endif %}
+<meta name="twitter:creator" content="{{ site.owner.twitter-handle }}">{% endif %}
 
 <!-- Open Graph -->
 <meta property="og:locale" content="en_US">
@@ -26,14 +26,14 @@
 
 {% else %}
 
-{% if site.owner.twitter %}<!-- Twitter Cards -->
+{% if site.owner.twitter-handle %}<!-- Twitter Cards -->
 {% if page.image.feature %}<meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:image" content="{{ site.url }}/images/{{ page.image.feature }}">
 {% else %}<meta name="twitter:card" content="summary">
 <meta name="twitter:image" content="{% if page.image.thumb %}{{ site.url }}/images/{{ page.image.thumb }}{% else %}{{ site.url }}/images/{{ site.owner.avatar-banner }}{% endif %}">{% endif %}
 <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
 <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.owner.bio }}{% endif %}">
-<meta name="twitter:creator" content="@{{ site.owner.twitter }}">{% endif %}
+<meta name="twitter:creator" content="{{ site.owner.twitter-handle }}">{% endif %}
 
 <!-- Open Graph -->
 <meta property="og:locale" content="en_US">

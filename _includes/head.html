@@ -4,14 +4,14 @@
 {% if page.tags %}<meta name="keywords" content="{{ page.tags | join: ', ' }}">{% endif %}
 
 {% if page.categories contains "travel" %}
-{% if site.owner.twitter %}<!-- Twitter Cards -->
+{% if site.owner.twitter-handle %}<!-- Twitter Cards -->
 {% if page.image.feature %}<meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:image" content="{{ site.url }}/images/{{ page.image.feature }}">
 {% else %}<meta name="twitter:card" content="summary">
 <meta name="twitter:image" content="{% if page.image.thumb %}{{ site.url }}/images/{{ page.image.thumb }}{% else %}{{ site.url }}/images/{{ site.owner.avatar-banner }}{% endif %}">{% endif %}
 <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
 <meta name="twitter:description" content="{% if page.date %} {{ page.date | date_to_long_string }} -{% endif %} {% if page.excerpt %}{{ page.excerpt | strip_html }}{% else %}{{ site.owner.bio }}{% endif %}">
-<meta name="twitter:creator" content="@{{ site.owner.twitter }}">{% endif %}
+<meta name="twitter:creator" content="{{ site.owner.twitter-handle }}">{% endif %}
 
 <!-- Open Graph -->
 <meta property="og:locale" content="en_US">
@@ -26,14 +26,14 @@
 
 {% else %}
 
-{% if site.owner.twitter %}<!-- Twitter Cards -->
+{% if site.owner.twitter-handle %}<!-- Twitter Cards -->
 {% if page.image.feature %}<meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:image" content="{{ site.url }}/images/{{ page.image.feature }}">
 {% else %}<meta name="twitter:card" content="summary">
 <meta name="twitter:image" content="{% if page.image.thumb %}{{ site.url }}/images/{{ page.image.thumb }}{% else %}{{ site.url }}/images/{{ site.owner.avatar-banner }}{% endif %}">{% endif %}
 <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
 <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.owner.bio }}{% endif %}">
-<meta name="twitter:creator" content="@{{ site.owner.twitter }}">{% endif %}
+<meta name="twitter:creator" content="{{ site.owner.twitter-handle }}">{% endif %}
 
 <!-- Open Graph -->
 <meta property="og:locale" content="en_US">
@@ -65,16 +65,16 @@
 <link rel="stylesheet" href="{{ site.url }}/assets/styles/main.css">
 
 <!-- Webfonts -->
-<link href="http://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet" type="text/css">
-<link href="http://fonts.googleapis.com/css?family=Merriweather:300" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Merriweather:300" rel="stylesheet" type="text/css">
 
 <meta http-equiv="cleartype" content="on">
 
 <!-- Icons -->
 <!-- 16x16 -->
-<link rel="shortcut icon" href="{{ site.url }}/favicon.ico">
+<link rel="shortcut icon" href="{{ site.url }}/images/favicon.ico">
 <!-- 32x32 -->
-<link rel="shortcut icon" href="{{ site.url }}/favicon.png">
+<link rel="shortcut icon" href="{{ site.url }}/images/favicon.png">
 <!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
 <link rel="apple-touch-icon-precomposed" href="{{ site.url }}/images/apple-touch-icon-precomposed.png">
 <!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->

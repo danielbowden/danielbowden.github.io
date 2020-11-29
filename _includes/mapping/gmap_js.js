@@ -23,7 +23,7 @@ var jekyllMapping = (function () {
                     title: s.title
                 });
                 markers.push(m);
-                bounds.extend(l);                
+                bounds.extend(l);
                 jekyllMapListen(m, s);
             }
 
@@ -48,7 +48,7 @@ var jekyllMapping = (function () {
                     title: "{{ page.title }}"
                 });
                 this.map.setCenter(this.options.center);
-            }     
+            }
 
             if (settings.zoom) {
                 this.options.zoom = settings.zoom;
@@ -62,7 +62,7 @@ var jekyllMapping = (function () {
                 var mainLayer = new google.maps.KmlLayer(settings.kml);
                 mainLayer.setMap(this.map);
             }
-            
+
             if (settings.layers) {
                 var layers = [];
                 while (settings.layers.length > 0){
@@ -85,7 +85,7 @@ var jekyllMapping = (function () {
             this.map = new google.maps.Map(document.getElementById("google-mapping"), this.options);
 
             if (settings.locations) {
-                this.pageToMap();   
+                this.pageToMap();
             } else {
                 this.indexMap();
             }
@@ -94,10 +94,10 @@ var jekyllMapping = (function () {
             settings = set;
             var script = document.createElement("script");
             script.type = "text/javascript";
-            script.src = "http://maps.googleapis.com/maps/api/js?key=AIzaSyA-YoSaEBJVaSSxzLDLyycbt24kAttfyhU&sensor=false&callback=jekyllMapping.mappingInitialize";
+            script.src = "https://maps.googleapis.com/maps/api/js?key=AIzaSyA-YoSaEBJVaSSxzLDLyycbt24kAttfyhU&sensor=false&callback=jekyllMapping.mappingInitialize";
             document.body.appendChild(script);
         }
     };
     return obj;
 }());
-</script> 
+</script>

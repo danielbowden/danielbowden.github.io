@@ -1,0 +1,93 @@
+.tech-posts {
+  color: $dark;
+  font-size: 20px;
+  padding: 40px 20px;
+
+  .info {
+    margin-bottom: 20px;
+    text-align: justify;
+  }
+
+  .title {
+    color: $accent;
+    font-size: 24px;
+    font-weight: 400;
+    margin-bottom: 10px;
+  }
+
+  .stats {
+    color: $dark;
+    padding: 10px;
+    display: block;
+    border: 1px solid $grey;
+    background-color: $white;
+
+    .title {
+      text-align: center;
+      margin-bottom: 0px;
+      margin-top: 10px;
+    }
+
+    ul {
+      padding: 0px;
+      margin-top: 10px;
+      list-style: none;
+      text-align: center;
+
+      li {
+        color: $dark;
+        font-size: 20px;
+        margin-bottom: 10px;
+        font-family: $body-font, monospace;
+
+        span {
+          color: $accent;
+        }
+      }
+    }
+  }
+}
+
+
+.techposts {
+  .tech-each {
+    color: $dark;
+    padding: 10px;
+    display: block;
+    margin-bottom: 20px;
+    border: 1px solid $grey;
+    background-color: $white;
+    @include clearfix;
+
+    &:hover {
+      color: $accent;
+      border: 1px solid $accent;
+    }
+
+    .thumb-wrapper {
+      float: left;
+      width: 120px;
+      height: 120px;
+      overflow: hidden;
+      margin-right: 10px;
+
+      img {
+        // Use if all images are sqaure
+        width: 100%;
+        height: auto;
+        display: block;
+      }
+    }
+    .text-wrapper {
+      float: left;
+      width: calc(100% - 130px);
+
+      .post-title {
+        font-weight: 400;
+      }
+      .post-date {
+        font-size: 16px;
+      }
+    }
+  }
+}

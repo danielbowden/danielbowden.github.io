@@ -1,0 +1,35 @@
+---
+layout: main
+title: Tech blog
+categories: tech
+tags: [tech, dev, development, programming]
+image:
+  thumb: avatar.jpg
+excerpt: A tech dev blog on various topics.
+---
+
+<div class="tech-posts">
+  <div class="wrapper">
+
+    <div class="info">
+      <div class="title">Tech blog</div>
+      <div class="details">
+        {{ page.excerpt }}
+      </div>
+    </div>
+
+    <div class="techposts">
+      {% for post in site.categories.tech %}
+      <a class="tech-each" href="{{ post.url }}">
+        <div class="thumb-wrapper">
+          <img src="{{ site.url }}/images/{{ post.image.thumb }}" alt="{{ post.title }}"/>
+        </div>
+        <div class="text-wrapper">
+          <div class="post-title">{{ post.title }}</div>
+          <div class="post-date">{{ post.date | date_to_long_string }}</div>
+        </div>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+</div>

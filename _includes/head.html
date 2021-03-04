@@ -3,7 +3,7 @@
 <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 {% if page.tags %}<meta name="keywords" content="{{ page.tags | join: ', ' }}">{% endif %}
 
-{% if page.categories contains "travel" %}
+{% if page.categories contains "travel" or page.categories contains "tech" %}
 {% if site.owner.twitter-handle %}<!-- Twitter Cards -->
 {% if page.image.feature %}<meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:image" content="{{ site.url }}/images/{{ page.image.feature }}">

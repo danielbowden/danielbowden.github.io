@@ -6,7 +6,7 @@ modified: 2021-03-03
 categories: tech
 comments: true
 image:
-  thumb: tech/RaspberryPi-Part2-th.jpeg
+  thumb: tech/RaspberryPi-Part2-th.jpg
 ---
 
 Now that my Raspberry Pi could communicate with my Onkyo Receiver, I wanted to build upon this and expose an API for a future iPhone app.
@@ -20,7 +20,7 @@ Given I was already playing with Python and I would be using the excellent [onky
 I wanted to build a simple, stateless interface into my Onkyo Receiver that would, ideally, aggregate the results of several Onkyo commands into a small number of calls.
 As mentioned in my previous post, there is an existing [Onkyo Remote](https://apps.apple.com/au/app/onkyo-remote-3/id927243793) iOS app on the AppStore that is clunky, complex and difficult to use. In no way did I want to replicate this whole app as 90% of its functionality I don't even use. Instead, I wanted to offer a small subset of functionality that is specific to my setup at home and our use case, and do these few things well.
 
-{% include image.html img="images/tech/RaspberryPi-Part2.jpeg" title="Raspberry Pi Zero with Pimoroni LEDs" %}
+{% include image.html img="images/tech/RaspberryPi-Part2.jpg" title="Raspberry Pi Zero with Pimoroni LEDs" %}
 
 ## Creating an API
 Installing Flask was simple. I created another virtual environment and installed what I needed.

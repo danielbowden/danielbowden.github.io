@@ -6,7 +6,7 @@ modified: 2021-02-13
 categories: tech
 comments: true
 image:
-  thumb: tech/RaspberryPi-Size-th.jpeg
+  thumb: tech/RaspberryPi-Size-th.jpg
 ---
 
 I'd been interested in getting a Raspberry Pi for years, but short of just tinkering I never really had a use for it. That is until now when I finally had what could only be described as a first-world problem to solve.
@@ -16,7 +16,7 @@ At home we have an outdoor entertaining area with in-ceiling speakers. These spe
 
 Onkyo have both a basic iPhone app and a web interface that allow me to control my Receiver over my local wifi network so I figured there must be some sort of local communication exposed. I wanted to see if I could use something like a Raspberry Pi to help let us know when Zone 2 of the Onkyo Receiver was turned on.
 
-{% include image.html img="images/tech/RaspberryPi-Size.jpeg" title="Raspberry Pi Zero size comparison" %}
+{% include image.html img="images/tech/RaspberryPi-Size.jpg" title="Raspberry Pi Zero size comparison" %}
 
 ## Research
 With a bit of research, I found that Onkyo have a proprietary protocol for controlling their receivers, eISCP or Integra Serial Communication Protocol over Ethernet. My first approach was to intercept traffic from their iOS app to see if I could just observe the API calls I was interested in and then replicate them on the Raspberry Pi. I could see the outgoing traffic but the protocol is so low level that I could not make sense of it. I found basic [documentation](https://www.jp.onkyo.com/audiovisual/installation/pro_amplifire/pca1120/img/OI-MCA1120_PCA1120_Serial_Command_180928.pdf) on eISCP but even then it was not detailed enough to help me any further and I put the project aside.
@@ -44,7 +44,7 @@ This model also has built-in mini-HDMI and 1x micro USB but I'd be running the P
 
 The [Pimoroni Blinkt!](https://shop.pimoroni.com/products/blinkt) is the real star of the project, offering eight RGB LEDs on a board that fits straight onto the Raspberry Pi's headers. Best of all Pimoroni provides a [Python library](https://github.com/pimoroni/blinkt) and plenty of example code to easily interface with the LEDs.
 
-{% include image.html img="images/tech/RaspberryPi-Lights.jpeg" title="Pimoroni LEDs" %}
+{% include image.html img="images/tech/RaspberryPi-Lights.jpg" title="Pimoroni LEDs" %}
 
 ## Development
 
